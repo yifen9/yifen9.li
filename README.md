@@ -1,0 +1,1 @@
+[![Image](https://github.com/yifen9/yifen9.li/actions/workflows/image.yaml/badge.svg)](https://github.com/yifen9/yifen9.li/actions/workflows/image.yaml)
