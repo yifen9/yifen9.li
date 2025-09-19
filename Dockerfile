@@ -15,7 +15,7 @@ RUN DEBIAN_FRONTEND=noninteractive apt-get update && \
 
 COPY ops/node.version /ops/node.version
 
-RUN NODE_MAJOR="$(if [ -s /ops/node.version ]; then cat /ops/node.version; else echo 22; fi)" && \
+RUN NODE_MAJOR="$(cat /ops/node.version)" && \
     DEBIAN_FRONTEND=noninteractive apt-get update && \
     apt-get install -y --no-install-recommends curl ca-certificates gnupg && \
     curl -fsSL "https://deb.nodesource.com/setup_${NODE_MAJOR}.x" | bash - && \

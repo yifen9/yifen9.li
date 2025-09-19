@@ -1,11 +1,9 @@
-resource "cloudflare_pages_project" "www" {
+resource "cloudflare_pages_project" "this" {
   account_id        = var.account_id
   name              = var.project_name
-  production_branch = "main"
-}
+  production_branch = var.production_branch
 
-resource "cloudflare_pages_domain" "root" {
-  account_id   = var.account_id
-  project_name = cloudflare_pages_project.www.name
-  domain       = var.domain
+  source {
+    type = "direct_upload"
+  }
 }
