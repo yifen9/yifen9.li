@@ -1,0 +1,21 @@
+services:
+  yifen9.li:
+    image: ghcr.io/yifen9/yifen9.li
+    build:
+      context: ..
+      dockerfile: Dockerfile
+    container_name: yifen9.li
+    working_dir: /workspace
+    env_file:
+      - .dev.env
+    ports:
+      - "4200:4200"
+      - "4201:4201"
+      - "4202:4202"
+      - "4203:4203"
+    volumes:
+      - "..:/workspace"
+    command: >
+      bash -c "
+        exec sleep infinity
+      "

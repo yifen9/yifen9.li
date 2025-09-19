@@ -1,0 +1,335 @@
+%
+%Academic CV LaTeX Template
+% Author: Dubasi Pavan Kumar
+% LinkedIn: https://www.linkedin.com/in/im-pavankumar/
+% License: MIT
+%
+% For errors, suggestions, or improvements, please contact:
+% Email: pavankumard.pg19.ma@nitp.ac.in
+%
+
+
+
+\documentclass[a4paper,11pt]{article}
+
+% Package imports
+\usepackage{latexsym}
+\usepackage{xcolor}
+\usepackage{float}
+\usepackage{ragged2e}
+\usepackage[empty]{fullpage}
+\usepackage{wrapfig}
+\usepackage{lipsum}
+\usepackage{tabularx}
+\usepackage{titlesec}
+\usepackage{geometry}
+\usepackage{marvosym}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage{fancyhdr}
+\usepackage{multicol}
+\usepackage{graphicx}
+\usepackage{cfr-lm}
+\usepackage[T1]{fontenc}
+\usepackage{fontawesome5}
+
+% Color definitions
+\definecolor{darkblue}{RGB}{0,0,139}
+
+% Page layout
+\setlength{\multicolsep}{0pt} 
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+\geometry{left=1.4cm, top=0.8cm, right=1.2cm, bottom=1cm}
+\setlength{\footskip}{5pt} % Addressing fancyhdr warning
+
+% Hyperlink setup (moved after fancyhdr to address warning)
+\usepackage[hidelinks]{hyperref}
+\hypersetup{
+	colorlinks=true,
+	linkcolor=darkblue,
+	filecolor=darkblue,
+	urlcolor=darkblue,
+}
+
+% Custom box settings
+\usepackage[most]{tcolorbox}
+\tcbset{
+	frame code={},
+	center title,
+	left=0pt,
+	right=0pt,
+	top=0pt,
+	bottom=0pt,
+	colback=gray!20,
+	colframe=white,
+	width=\dimexpr\textwidth\relax,
+	enlarge left by=-2mm,
+	boxsep=4pt,
+	arc=0pt,outer arc=0pt,
+}
+
+% URL style
+\urlstyle{same}
+
+% Text alignment
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Section formatting
+\titleformat{\section}{
+	\vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-7pt}]
+
+% Custom commands
+\newcommand{\resumeItem}[2]{
+	\item{
+		\textbf{#1}{\hspace{0.5mm}#2 \vspace{-0.5mm}}
+	}
+}
+
+\newcommand{\resumePOR}[3]{
+	\vspace{0.5mm}\item
+	\begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+		\textbf{#1}\hspace{0.3mm}#2 & \textit{\small{#3}} 
+	\end{tabular*}
+	\vspace{-2mm}
+}
+
+\newcommand{\resumeSubheading}[4]{
+	\vspace{0.5mm}\item
+	\begin{tabular*}{0.98\textwidth}[t]{l@{\extracolsep{\fill}}r}
+		\textbf{#1} & \textit{\footnotesize{#4}} \\
+		\textit{\footnotesize{#3}} &  \footnotesize{#2}\\
+	\end{tabular*}
+	\vspace{-2.4mm}
+}
+
+\newcommand{\resumeProject}[4]{
+	\vspace{0.5mm}\item
+	\begin{tabular*}{0.98\textwidth}[t]{l@{\extracolsep{\fill}}r}
+		\textbf{#1} & \textit{\footnotesize{#3}} \\
+		\footnotesize{\textit{#2}} & \footnotesize{#4}
+	\end{tabular*}
+	\vspace{-2.4mm}
+}
+
+\newcommand{\resumeSubItem}[2]{\resumeItem{#1}{#2}\vspace{-4pt}}
+
+\renewcommand{\labelitemi}{$\vcenter{\hbox{\tiny$\bullet$}}$}
+\renewcommand{\labelitemii}{$\vcenter{\hbox{\tiny$\circ$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=*,labelsep=1mm]}
+	\newcommand{\resumeHeadingSkillStart}{\begin{itemize}[leftmargin=*,itemsep=1.7mm, rightmargin=2ex]}
+		\newcommand{\resumeItemListStart}{\begin{itemize}[leftmargin=*,labelsep=1mm,itemsep=0.5mm]}
+			
+			\newcommand{\resumeSubHeadingListEnd}{\end{itemize}\vspace{2mm}}
+		\newcommand{\resumeHeadingSkillEnd}{\end{itemize}\vspace{-2mm}}
+	\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-2mm}}
+\newcommand{\cvsection}[1]{%
+	\vspace{2mm}
+	\begin{tcolorbox}
+		\textbf{\large #1}
+	\end{tcolorbox}
+	\vspace{-4mm}
+}
+
+\newcolumntype{L}{>{\raggedright\arraybackslash}X}%
+\newcolumntype{R}{>{\raggedleft\arraybackslash}X}%
+\newcolumntype{C}{>{\centering\arraybackslash}X}%
+
+% Commands for icon sizing and positioning
+\newcommand{\socialicon}[1]{\raisebox{-0.05em}{\resizebox{!}{1em}{#1}}}
+\newcommand{\ieeeicon}[1]{\raisebox{-0.3em}{\resizebox{!}{1.3em}{#1}}}
+
+% Font options
+\newcommand{\headerfonti}{\fontfamily{phv}\selectfont}
+\newcommand{\headerfontii}{\fontfamily{ptm}\selectfont}
+\newcommand{\headerfontiii}{\fontfamily{ppl}\selectfont}
+\newcommand{\headerfontiv}{\fontfamily{pbk}\selectfont}
+\newcommand{\headerfontv}{\fontfamily{pag}\selectfont}
+\newcommand{\headerfontvi}{\fontfamily{cmss}\selectfont}
+\newcommand{\headerfontvii}{\fontfamily{qhv}\selectfont}
+\newcommand{\headerfontviii}{\fontfamily{qpl}\selectfont}
+\newcommand{\headerfontix}{\fontfamily{qtm}\selectfont}
+\newcommand{\headerfontx}{\fontfamily{bch}\selectfont}
+
+\fancyfoot[L]{\fmtname\ (\fmtversion)}
+\fancyfoot[C]{\makebox[\textwidth][c]{\href{https://yifen9.li/cv.tex}{Source}}}
+\fancyfoot[R]{\makebox[\textwidth][r]{Revised on \today}}
+
+\begin{document}
+	\headerfontiii
+	
+	\begin{center}
+		{\Huge\textbf{LI YIFENG}}
+	\end{center}
+	\vspace{-6mm}
+	
+	\begin{center}
+		\small{
+			\href{tel:+393929952282}{+39-392-995-2282} |
+			\href{mailto:mail@yifen9.li}{mail@yifen9.li} |
+			\href{https://yifen9.li}{https://yifen9.li}
+		}
+	\end{center}
+	\vspace{-6mm}
+	
+	\begin{center}
+		\small{
+			\socialicon{\faGithub} \href{https://github.com/yifen9}{yifen9} |
+			\socialicon{\faLinkedin} \href{https://www.linkedin.com/in/yifen9li}{yifen9li} |
+			\socialicon{\faTelegram} \href{https://t.me/yifen9}{yifen9}
+		}
+	\end{center}
+	\vspace{-6mm}
+	\begin{center}
+		\small{Trento, Trentino–Alto Adige, Italy}
+	\end{center}
+	
+	\vspace{-4mm}
+
+	\section{\textbf{Education}}
+	\vspace{-0.4mm}
+	\resumeSubHeadingListStart
+	
+	\resumeSubheading
+	{University of Trento}{Trento, Italy}
+	{Bachelor Degree in Computer Science (L-31)}{Sep, 2024 - Current}
+	\resumeItemListStart
+	\item GPA: {\href{https://yifen9.li/gpa/bsc_unitn.pdf}{28.75/30}}
+	\resumeItemListEnd
+	
+	\resumeSubHeadingListEnd
+	\vspace{-6mm}
+	
+	\section{\textbf{Projects}}
+	\vspace{-0.4mm}
+	\resumeSubHeadingListStart
+	
+	\resumeProject
+		{ORCID Dataset: A dataset providing hiring flow of global scholars}
+		{Tools: [Python, Matplotlib, Numpy, NetworkX, SpringRank]}
+		{Apr - May, 2024}
+		{
+			[\href{https://yifen9.li/apps/orcid-dataset/presentation.pdf}{\textcolor{darkblue}{Presentation}}]
+			[\href{https://www.kaggle.com/datasets/yifen9/orcid-dataset}{\textcolor{darkblue}{\faKaggle}}]
+			[\href{https://github.com/yifen9/orcid-dataset}{\textcolor{darkblue}{\faGithub}}]
+		}
+		\resumeItemListStart
+			\item Implemented a dataset for analyzing global scholar mobility
+			\item Analyzed university education inequality via SpringRank
+		\resumeItemListEnd
+	
+	\resumeProject
+		{Otiria: An end-to-end platform for turn-based game AI training}
+		{Tools: [Julia, OCaml]}
+		{Apr, 2025 - Current}
+		{
+			[\href{https://juliahub.com/ui/Packages/General/Itera}{\textcolor{darkblue}{Julia(Itera.jl)}}]
+			[\href{https://github.com/Otiria}{\textcolor{darkblue}{\faGithub}}]
+		}
+		\resumeItemListStart
+			\item Otiria consists of three parts: Itera, Liria and Oriva. Itera is the backend of the game engine with Liria as its frontend, while Oriva serves as the main framework combining the whole training process
+		\resumeItemListEnd
+	
+	\resumeProject
+		{Giordle: A Wordle-like game made in Godot}
+		{Tools: [Godot, GDScript]}
+		{Jul, 2025}
+		{
+			[\href{https://clarelab.itch.io/giordle}{\textcolor{darkblue}{\faItchIo}}]
+			[\href{https://github.com/yifen9/giordle}{\textcolor{darkblue}{\faGithub}}]
+		}
+		\resumeItemListStart
+			\item Giordle is a Wordle-like game which allows you to play Wordle based on WhatsApp chat history
+		\resumeItemListEnd
+	
+	\resumeProject
+		{UniTN Online Judge: A serverless online judge platform}
+		{Tools: [Cloudflare, SvelteKit, TypeScript, Terraform]}
+		{Aug, 2025 - Current}
+		{
+			[\href{https://oj.yifen9.li}{oj.yifen9.li}]
+			[\href{https://github.com/yifen9/unitn-oj}{\textcolor{darkblue}{\faGithub}}]
+		}
+	
+	\resumeProject
+		{UniTN Problemset: A static choice problem online judge platform}
+		{Tools: [Elm, Typescript, Tailwind CSS, Bun, Vite]}
+		{Sep, 2025}
+		{
+			[\href{https://yifen9.li/apps/unitn-problemset/introduction.mp4}{\textcolor{darkblue}{Introduction}}]
+			[\href{https://pset.yifen9.li}{pset.yifen9.li}]
+			[\href{https://github.com/yifen9/unitn-problemset}{\textcolor{darkblue}{\faGithub}}]
+		}
+		\resumeItemListStart
+		\item A static website includes problems generated with integration from Notion
+		\resumeItemListEnd
+	
+	\resumeSubHeadingListEnd
+	
+	\section{\textbf{Skills}}
+	\vspace{-0.4mm}
+	\resumeHeadingSkillStart
+	\resumeSubItem{Programming Languages:}
+		{C++, Julia, Python, TypeScript}
+	\resumeSubItem{Frontend:}
+		{Elm, SvelteKit, Tailwind CSS, Vite}
+	\resumeSubItem{Backend:}
+		{Node.js, Phoenix, PostgreSQL, SQLite}
+	\resumeSubItem{DevOps:}
+		{Cloudflare, Docker, GitHub Actions, Nix}
+	\resumeHeadingSkillEnd
+
+	\section{\textbf{Certifications}}
+	\vspace{-0.2mm}
+	\resumeSubHeadingListStart
+	\resumePOR{}{
+		\textbf{GPA (University of Trento):}
+			{{\href{https://yifen9.li/gpa/bsc_unitn.pdf}{GPA 28.75, Tot. credits 51}}}}
+		{July, 2025}
+	\resumePOR{}{
+		\textbf{English (IELTS Academic):}
+			{{\href{https://yifen9.li/lang/en_ielts.pdf}{CEFR C1, Overall 7.5}}}}
+		{June, 2025}
+	\resumeSubHeadingListEnd
+	\vspace{-6mm}
+	
+	\section{\textbf{Additional Information}}
+	\vspace{-0.4mm}
+	\small{
+		\textbf{Languages:}
+			Chinese
+				(Native),
+			English
+				({\href{https://yifen9.li/lang/en_ielts.pdf}{C1}}),
+			Japanese
+				(Untested B1),
+			Italian
+				({\href{https://yifen9.li/lang/it_unitn.png}{A1}}),
+			German
+				({\href{https://yifen9.li/lang/de_unitn.png}{A1a}})
+		
+		\textbf{Interests:}
+			Cognitive Science,
+			DSL,
+			Game Developing,
+			Multi-agent System
+		
+		\textbf{Personal Websites:}
+			Homepage
+				({\href{https://yifen9.li}{Li Yifeng}}),
+			Blog
+				({\href{https://blog.yifen9.li}{Blog}}),
+			Lib
+				({\href{https://algo.yifen9.li}{Algo}}|{\href{https://unitn.yifen9.li}{UniTN BSc}}),
+			Self-Hosting
+				({\href{https://clarelab.moe}{clareLab}})
+	}
+	\vspace{-4mm}
+	
+\end{document}

@@ -1,0 +1,18 @@
+{
+  "dockerComposeFile": "compose.yaml",
+  "service": "yifen9.li",
+  "workspaceFolder": "/workspace",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "jeff-hykin.better-dockerfile-syntax",
+        "jnoortheen.nix-ide",
+        "hashicorp.terraform",
+        "hashicorp.hcl",
+        "quarto.quarto",
+        "yzhang.markdown-all-in-one",
+        "ms-vscode.makefile-tools"
+      ]
+    }
+  }
+}
