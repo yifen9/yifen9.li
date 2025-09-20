@@ -3,6 +3,13 @@ project:
   preview:
     host: 0.0.0.0
     port: 4200
+  resources:
+    - avatar.png
+    - cv.pdf
+    - cv.tex
+    - apps/**
+    - gpa/**
+    - lang/**
 
 date: now
 date-format: "YYYY-MM-DDTHH:mm:ssZ"
