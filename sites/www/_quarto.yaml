@@ -7,7 +7,6 @@ project:
     - avatar.png
     - cv.pdf
     - cv.tex
-    - apps/**
     - gpa/**
     - lang/**
 
