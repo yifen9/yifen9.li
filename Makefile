@@ -29,7 +29,7 @@ q-clean:
 	rm -rf $(OUT_DIR)
 
 deploy:
-	[ -d "$(OUT_DIR)" ] || $(MAKE) q-build PROJECT=$(PROJECT)
+	$(MAKE) q-build PROJECT=$(PROJECT)
 	$(WRANGLER) pages deploy $(OUT_DIR) --project-name $(PROJECT)-$(ZONE) --branch $(BRANCH)
 
 tf-init:
