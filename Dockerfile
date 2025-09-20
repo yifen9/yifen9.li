@@ -2,12 +2,17 @@ FROM ghcr.io/quarto-dev/quarto
 
 COPY ops/apt.txt /ops/apt.txt
 
-RUN if [ -s /ops/apt.txt ]; \
-    then \
+RUN set -e; \
+    if grep -qw terraform /ops/apt.txt; then \
       DEBIAN_FRONTEND=noninteractive apt-get update && \
-      xargs -r -a /ops/apt.txt apt-get install -y --no-install-recommends && \
-      rm -rf /var/lib/apt/lists/*; \
-    fi
+      apt-get install -y --no-install-recommends curl gnupg ca-certificates lsb-release && \
+      curl -fsSL https://apt.releases.hashicorp.com/gpg | gpg --dearmor -o /usr/share/keyrings/hashicorp-archive-keyring.gpg && \
+      echo "deb [signed-by=/usr/share/keyrings/hashicorp-archive-keyring.gpg] https://apt.releases.hashicorp.com $(lsb_release -cs) main" \
+        > /etc/apt/sources.list.d/hashicorp.list; \
+    fi; \
+    DEBIAN_FRONTEND=noninteractive apt-get update && \
+    xargs -r -a /ops/apt.txt apt-get install -y --no-install-recommends && \
+    rm -rf /var/lib/apt/lists/*
 
 RUN DEBIAN_FRONTEND=noninteractive apt-get update && \
     apt-get purge -y --auto-remove nodejs npm libnode-dev || true && \

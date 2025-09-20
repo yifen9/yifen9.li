@@ -1,69 +1,51 @@
+SHELL := /bin/bash
+
 PROJECT ?= www
-SITE_DIR ?= sites/$(PROJECT)
-DIST ?= build
-PROD_BRANCH ?= main
-PREVIEW ?= 0
+ZONE ?= yifen9-li
+SITE_DIR := sites/$(PROJECT)
+OUT_DIR ?= $(SITE_DIR)/build
+PORT ?= 8080
 BRANCH ?= $(shell git rev-parse --abbrev-ref HEAD)
 
-TF_DIR ?= terraform/pages
+QUARTO ?= quarto
+WRANGLER ?= wrangler
 
--include .dev.env
-export
+TF_DIR ?= terraform
+CF_ACCOUNT_ID ?= $(CLOUDFLARE_ACCOUNT_ID)
 
-.PHONY: tf-init tf-fmt tf-validate tf-plan tf-apply tf-destroy tf-output tf-refresh tf-lock tf-providers tf-state-list deploy
+.PHONY: q-preview q-build q-check q-clean deploy \
+        tf-init tf-plan tf-apply tf-destroy tf-fmt tf-output
+
+q-preview:
+	cd $(SITE_DIR) && $(QUARTO) preview --host 0.0.0.0 --port $(PORT) --no-browser
+
+q-build:
+	cd $(SITE_DIR) && $(QUARTO) render
+
+q-check:
+	cd $(SITE_DIR) && $(QUARTO) check
+
+q-clean:
+	rm -rf $(OUT_DIR)
+
+deploy:
+	[ -d "$(OUT_DIR)" ] || $(MAKE) q-build PROJECT=$(PROJECT)
+	$(WRANGLER) pages deploy $(OUT_DIR) --project-name $(PROJECT)-$(ZONE) --branch $(BRANCH)
 
 tf-init:
 	terraform -chdir=$(TF_DIR) init
 
+tf-plan:
+	terraform -chdir=$(TF_DIR) plan -var "account_id=$(CF_ACCOUNT_ID)" -var "project=$(PROJECT)"
+
+tf-apply:
+	terraform -chdir=$(TF_DIR) apply -auto-approve -var "account_id=$(CF_ACCOUNT_ID)" -var "project=$(PROJECT)"
+
+tf-destroy:
+	terraform -chdir=$(TF_DIR) destroy -auto-approve -var "account_id=$(CF_ACCOUNT_ID)" -var "project=$(PROJECT)"
+
 tf-fmt:
 	terraform -chdir=$(TF_DIR) fmt -recursive
 
-tf-validate:
-	terraform -chdir=$(TF_DIR) validate
-
-tf-plan:
-	terraform -chdir=$(TF_DIR) plan \
-		-var="cf_api_token=$(cf_api_token)" \
-		-var="account_id=$(account_id)" \
-		-var="project_name=$(PROJECT)" \
-		-var="production_branch=$(PROD_BRANCH)"
-
-tf-apply:
-	terraform -chdir=$(TF_DIR) apply -auto-approve \
-		-var="cf_api_token=$(cf_api_token)" \
-		-var="account_id=$(account_id)" \
-		-var="project_name=$(PROJECT)" \
-		-var="production_branch=$(PROD_BRANCH)"
-
-tf-destroy:
-	terraform -chdir=$(TF_DIR) destroy -auto-approve \
-		-var="cf_api_token=$(cf_api_token)" \
-		-var="account_id=$(account_id)" \
-		-var="project_name=$(PROJECT)" \
-		-var="production_branch=$(PROD_BRANCH)"
-
 tf-output:
-	terraform -chdir=$(TF_DIR) output
-
-tf-refresh:
-	terraform -chdir=$(TF_DIR) apply -refresh-only -auto-approve \
-		-var="cf_api_token=$(cf_api_token)" \
-		-var="account_id=$(account_id)" \
-		-var="project_name=$(PROJECT)" \
-		-var="production_branch=$(PROD_BRANCH)"
-
-tf-lock:
-	terraform -chdir=$(TF_DIR) providers lock -platform=linux_amd64 -platform=linux_arm64 -platform=darwin_amd64 -platform=darwin_arm64
-
-tf-providers:
-	terraform -chdir=$(TF_DIR) providers
-
-tf-state-list:
-	terraform -chdir=$(TF_DIR) state list
-
-deploy:
-ifeq ($(PREVIEW),1)
-	wrangler pages deploy "$(SITE_DIR)/$(DIST)" --project-name "$(PROJECT)" --branch "$(BRANCH)"
-else
-	wrangler pages deploy "$(SITE_DIR)/$(DIST)" --project-name "$(PROJECT)" --production
-endif
+	terraform -chdir=$(TF_DIR) output -json

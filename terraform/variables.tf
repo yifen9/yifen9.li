@@ -7,8 +7,14 @@ variable "account_id" {
   type = string
 }
 
-variable "project_name" {
+variable "project" {
   type = string
+  default = "www"
+}
+
+variable "zone" {
+  type = string
+  default = "yifen9.li"
 }
 
 variable "production_branch" {

@@ -9,10 +9,7 @@ services:
     env_file:
       - .dev.env
     ports:
-      - "4200:4200"
-      - "4201:4201"
-      - "4202:4202"
-      - "4203:4203"
+      - "8080:8080"
     volumes:
       - "..:/workspace"
     command: >
