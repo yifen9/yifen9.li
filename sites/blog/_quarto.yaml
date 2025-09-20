@@ -1,9 +1,6 @@
 project:
   type: website
   output-dir: build
-  preview:
-    host: 0.0.0.0
-    port: 4200
 
 website:
   title: "blog.yifen9.li"
