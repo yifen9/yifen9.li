@@ -1,7 +1,6 @@
 ---
-title: "blog.yifen9.li"
+listing:
+  contents: posts
+  sort: "date desc"
+  categories: true
 ---
-
-## Test
-
-Hello, World!
