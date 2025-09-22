@@ -2,7 +2,6 @@
   "folders": [
     { "path": "." },
     { "path": "sites/www" },
-    { "path": "sites/blog" },
-    { "path": "labs" }
+    { "path": "sites/blog" }
   ]
 }
