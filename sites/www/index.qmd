@@ -11,7 +11,7 @@ title: "Li Yifeng"
 - Education
   - Bachelor of Computer Science, University of Trento, 2024-2027
 - Applications
-  - [ORCID Dataset](https://github.com/yifen9/orcid-dataset)
+  - [ORCID SpringRank](https://github.com/yifen9/orcid-dataset)
   - [Otiria](https://github.com/otiria)
   - [Giordle](https://github.com/yifen9/giordle)
   - [UniTN Online Judge](https://github.com/yifen9/unitn-oj)
