@@ -11,30 +11,16 @@ title: "Li Yifeng"
 - Education
   - Bachelor of Computer Science, University of Trento, 2024 - Current
 - Experience
-  - Research Intern, Jan - May, 2026 (Expected), Trento, Italy
-    - [GamiDoc](https://www.gamidoc.com), Fondazione Bruno Kessler
+  - Research Intern, Jan - May, 2026 (Expected), Trento, Italy ([GamiDoc](https://www.gamidoc.com), Fondazione Bruno Kessler)
 - Research
-  - Rising Dispersion in Country-Level Academic Mobility Rankings from ORCID-Derived Flow Networks, Apr, 2024 - Current
-    - [arXiv](https://assets.yifen9.li/projects/osr/papers/netsci2026/arxiv/submit_7096912.pdf)
-    - [GitHub](https://github.com/yifen9/osr-examples)
-    - [Zenodo](https://zenodo.org/records/17983291)
+  - Rising Dispersion in Country-Level Academic Mobility Rankings from ORCID-Derived Flow Networks, Apr, 2024 - Current ([arXiv](https://assets.yifen9.li/projects/osr/papers/netsci2026/arxiv/submit_7096912.pdf) / [GitHub](https://github.com/yifen9/osr-examples) / [Zenodo](https://zenodo.org/records/17983291))
 - Projects
-  - Reddit Archive, Sep - Nov, 2025
-    - [GitHub](https://github.com/open-run-org/archive)
-    - [Website](https://archive.open-run.org)
-  - GitHub Auto Inviter, Oct, 2025
-    - [GitHub](https://github.com/unitn-ap-2025/api)
-    - [OpenAPI](https://unitn-ap-2025.github.io/api)
+  - Reddit Archive, Sep - Nov, 2025 ([GitHub](https://github.com/open-run-org/archive) / [Website](https://archive.open-run.org))
+  - GitHub Auto Inviter, Oct, 2025 ([GitHub](https://github.com/unitn-ap-2025/api) / [OpenAPI](https://unitn-ap-2025.github.io/api))
 - Packages
-  - DynamicSpringRank.jl, Nov, 2025 - Current
-    - [Documentation](https://dsr-jl.apps.yifen9.li)
-    - [GitHub](https://github.com/yifen9/DynamicSpringRank.jl)
-  - SpringRank.jl, Oct - Nov, 2025
-    - [Documentation](https://sr-jl.apps.yifen9.li)
-    - [GitHub](https://github.com/yifen9/SpringRank.jl)
-  - c-labkit, Oct, 2025
-    - [GitHub](https://github.com/yifen9/c-labkit)
-    - [CLI Package](https://github.com/yifen9/c-labkit/pkgs/container/c-labkit-cli)
+  - DynamicSpringRank.jl, Nov, 2025 - Current ([Documentation](https://dsr-jl.apps.yifen9.li) / [GitHub](https://github.com/yifen9/DynamicSpringRank.jl))
+  - SpringRank.jl, Oct - Nov, 2025 ([Documentation](https://sr-jl.apps.yifen9.li) / [GitHub](https://github.com/yifen9/SpringRank.jl))
+  - c-labkit, Oct, 2025 ([GitHub](https://github.com/yifen9/c-labkit) / [CLI Package](https://github.com/yifen9/c-labkit/pkgs/container/c-labkit-cli))
 
 ## Files
 
