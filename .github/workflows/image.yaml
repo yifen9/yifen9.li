@@ -5,8 +5,7 @@ on:
     branches:
       - main
     paths:
-      - "Dockerfile"
-      - "nix/**"
+      - "Dockerfile.dev"
       - ".github/workflows/image.yaml"
   workflow_dispatch:
 
@@ -28,7 +27,7 @@ jobs:
       - uses: docker/build-push-action@master
         with:
           context: .
-          file: Dockerfile
+          file: Dockerfile.dev
           push: true
           tags: |
             ghcr.io/${{ github.repository_owner }}/yifen9.li:latest

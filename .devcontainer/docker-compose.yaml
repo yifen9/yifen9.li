@@ -3,13 +3,11 @@ services:
     image: ghcr.io/yifen9/yifen9.li
     build:
       context: ..
-      dockerfile: Dockerfile
+      dockerfile: Dockerfile.dev
     container_name: yifen9.li
     working_dir: /workspace
     env_file:
-      - .dev.env
-    ports:
-      - "8080:8080"
+      - ../.env.dev
     volumes:
       - "..:/workspace"
     command: >

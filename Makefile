@@ -11,7 +11,8 @@ QUARTO ?= quarto
 WRANGLER ?= wrangler
 
 TF_DIR ?= terraform
-CF_ACCOUNT_ID ?= $(CLOUDFLARE_ACCOUNT_ID)
+CF_ACCOUNT_ID ?= $(TF_account_id)
+CF_API_TOKEN ?= $(TF_cf_api_token)
 
 .PHONY: q-preview q-build q-check q-clean deploy \
         tf-init tf-plan tf-apply tf-destroy tf-fmt tf-output
@@ -50,7 +51,7 @@ tf-init:
 	terraform -chdir=$(TF_DIR) init
 
 tf-plan:
-	terraform -chdir=$(TF_DIR) plan -var "account_id=$(CF_ACCOUNT_ID)" -var "project=$(PROJECT)"
+	terraform -chdir=$(TF_DIR) plan -var "account_id=$(CF_ACCOUNT_ID)" -var "cf_api_token=$(CF_API_TOKEN)" -var "project=$(PROJECT)"
 
 tf-plan-www:
 	terraform -chdir=$(TF_DIR) plan -var "account_id=$(CF_ACCOUNT_ID)" -var "project=www"
@@ -59,7 +60,7 @@ tf-plan-blog:
 	terraform -chdir=$(TF_DIR) plan -var "account_id=$(CF_ACCOUNT_ID)" -var "project=blog"
 
 tf-apply:
-	terraform -chdir=$(TF_DIR) apply -auto-approve -var "account_id=$(CF_ACCOUNT_ID)" -var "project=$(PROJECT)"
+	terraform -chdir=$(TF_DIR) apply -auto-approve -var "account_id=$(CF_ACCOUNT_ID)" -var "cf_api_token=$(CF_API_TOKEN)" -var "project=$(PROJECT)"
 
 tf-apply-www:
 	terraform -chdir=$(TF_DIR) apply -auto-approve -var "account_id=$(CF_ACCOUNT_ID)" -var "project=www"
