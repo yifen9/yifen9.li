@@ -1,5 +1,0 @@
-git
-make
-nodejs
-npm
-terraform
