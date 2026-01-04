@@ -11,10 +11,12 @@ title: "Li Yifeng"
 - Education
   - Bachelor of Computer Science, University of Trento, 2024 - Current
 - Experience
+  - Research Intern, Oct, 2025 - Current, Trento, Italy ([With Elia Cunegatti and Giovanni Iacca](https://sites.google.com/site/giovanniiacca), University of Trento)
   - Research Intern, Jan - May, 2026 (Expected), Trento, Italy ([GamiDoc](https://www.gamidoc.com), Fondazione Bruno Kessler)
 - Research
-  - Rising Dispersion in Country-Level Academic Mobility Rankings from ORCID-Derived Flow Networks, Apr, 2024 - Current ([arXiv](https://assets.yifen9.li/projects/osr/papers/netsci2026/arxiv/submit_7096912.pdf) / [GitHub](https://github.com/yifen9/osr-examples) / [Zenodo](https://zenodo.org/records/17983291))
+  - Rising Dispersion in Country-Level Academic Mobility Rankings from ORCID-Derived Flow Networks, Apr, 2024 - Current ([Preprint](https://doi.org/10.5281/zenodo.18068503))
 - Projects
+  - Open Scholar Ranking, Apr, 2024 - Current ([GitHub (Dataset)](https://github.com/yifen9/orcid-springrank) / [GitHub (Examples)](https://github.com/yifen9/osr-examples))
   - Reddit Archive, Sep - Nov, 2025 ([GitHub](https://github.com/open-run-org/archive) / [Website](https://archive.open-run.org))
   - GitHub Auto Inviter, Oct, 2025 ([GitHub](https://github.com/unitn-ap-2025/api) / [OpenAPI](https://unitn-ap-2025.github.io/api))
 - Packages
