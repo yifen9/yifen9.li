@@ -11,8 +11,10 @@ title: "Li Yifeng"
 - Education
   - Bachelor of Computer Science, University of Trento, 2024 - Current
 - Experience
-  - Research Intern, Jan, 2026 - Current, Trento, Italy (With Dr. Simone Bassanelli and Prof. Luca Turchet, GamiDoc, Fondazione Bruno Kessler)
-  - Research Intern, Oct, 2025 - Current, Trento, Italy (With Dr. Elia Cunegatti and Prof. Giovanni Iacca, University of Trento)
+  - Research Intern, Fondazione Bruno Kessler, Jan, 2026 - Current
+    - With Dr. Simone Bassanelli and Prof. Luca Turchet
+  - Research Intern, University of Trento, Oct, 2025 - Current
+    - With Dr. Elia Cunegatti and Prof. Giovanni Iacca
 - Research
   - Rising Dispersion in Country-Level Academic Mobility Rankings from ORCID-Derived Flow Networks, Apr, 2024 - Current ([Preprint](https://doi.org/10.5281/zenodo.18068503))
 - Projects
