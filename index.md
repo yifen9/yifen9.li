@@ -2,7 +2,7 @@
 title: "Li Yifeng"
 ---
 
-## Info
+## Main
 
 - Base
   - Li Yifeng (李艺峰)
@@ -11,7 +11,7 @@ title: "Li Yifeng"
 - Education
   - Bachelor of Computer Science, University of Trento, 2024 - Current
 - Experience
-  - Research Intern, Jan - May, 2026 (Expected), Trento, Italy (With Dr. Simone Bassanelli and Prof. Luca Turchet, GamiDoc, Fondazione Bruno Kessler)
+  - Research Intern, Jan, 2026 - Current, Trento, Italy (With Dr. Simone Bassanelli and Prof. Luca Turchet, GamiDoc, Fondazione Bruno Kessler)
   - Research Intern, Oct, 2025 - Current, Trento, Italy (With Dr. Elia Cunegatti and Prof. Giovanni Iacca, University of Trento)
 - Research
   - Rising Dispersion in Country-Level Academic Mobility Rankings from ORCID-Derived Flow Networks, Apr, 2024 - Current ([Preprint](https://doi.org/10.5281/zenodo.18068503))
@@ -19,6 +19,11 @@ title: "Li Yifeng"
   - Open Scholar Ranking, Apr, 2024 - Current ([GitHub (Dataset)](https://github.com/yifen9/orcid-springrank) / [GitHub (Examples)](https://github.com/yifen9/osr-examples))
   - Reddit Archive, Sep - Nov, 2025 ([GitHub](https://github.com/open-run-org/archive) / [Website](https://archive.open-run.org))
   - GitHub Auto Inviter, Oct, 2025 ([GitHub](https://github.com/unitn-ap-2025/api) / [OpenAPI](https://unitn-ap-2025.github.io/api))
+- Awards
+  - [UniTrento Scholarships](https://web.archive.org/web/20250324133641/https://www.unitn.it/en/study/fees-scholarships-accommodation/scholarships-and-awards/scholarships-international-students), 2024/2025 - Current
+
+## Extra
+
 - Packages
   - DynamicSpringRank.jl, Nov, 2025 - Current ([Documentation](https://dsr-jl.apps.yifen9.li) / [GitHub](https://github.com/yifen9/DynamicSpringRank.jl))
   - SpringRank.jl, Oct - Nov, 2025 ([Documentation](https://sr-jl.apps.yifen9.li) / [GitHub](https://github.com/yifen9/SpringRank.jl))
@@ -53,7 +58,7 @@ title: "Li Yifeng"
   - [UniTrento Problemset](https://pset.unitn.yifen9.li)
   - [UniTrento UniOpera Printer Service](https://opera.unitn.yifen9.li)
 
-## More About Me
+## More
 
 - Fav geography:
   - City: Copenhagen, Prague, Strasbourg
