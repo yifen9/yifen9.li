@@ -11,8 +11,8 @@ title: "Li Yifeng"
 - Education
   - Bachelor of Computer Science, University of Trento, 2024 - Current
 - Experience
-  - Research Intern, Oct, 2025 - Current, Trento, Italy ([With Elia Cunegatti and Giovanni Iacca](https://sites.google.com/site/giovanniiacca), University of Trento)
-  - Research Intern, Jan - May, 2026 (Expected), Trento, Italy ([GamiDoc](https://www.gamidoc.com), Fondazione Bruno Kessler)
+  - Research Intern, Jan - May, 2026 (Expected), Trento, Italy (With Dr. Simone Bassanelli and Prof. Luca Turchet, GamiDoc, Fondazione Bruno Kessler)
+  - Research Intern, Oct, 2025 - Current, Trento, Italy (With Dr. Elia Cunegatti and Prof. Giovanni Iacca, University of Trento)
 - Research
   - Rising Dispersion in Country-Level Academic Mobility Rankings from ORCID-Derived Flow Networks, Apr, 2024 - Current ([Preprint](https://doi.org/10.5281/zenodo.18068503))
 - Projects
@@ -47,6 +47,7 @@ title: "Li Yifeng"
   - [GitHub](https://github.com/yifen9)
   - [LinkedIn](https://www.linkedin.com/in/yifen9li)
 - Websites
+  - [Blog](https://blog.yifen9.li)
   - [UniTrento L-31 Boardgame Club](https://bg.unitn.yifen9.li)
   - [UniTrento L-31 Lab](https://l31.unitn.yifen9.li)
   - [UniTrento Problemset](https://pset.unitn.yifen9.li)
@@ -55,17 +56,17 @@ title: "Li Yifeng"
 ## More About Me
 
 - Fav geography:
-  - city: Copenhagen, Prague, Strasbourg
-  - region: Alps, Hokkaido, Scandinavia
-  - country: Czechia, Japan, Norway
+  - City: Copenhagen, Prague, Strasbourg
+  - Region: Alps, Hokkaido, Scandinavia
+  - Country: Czechia, Japan, Norway
 - Fav thing:
-  - animal: cat, crow, owl
-  - food: gelato, pierogi, ramen
-  - weather: foggy, raining, snowing
+  - Animal: cat, crow, owl
+  - Food: gelato, pierogi, ramen
+  - Weather: foggy, raining, snowing
 - Fav activities:
-  - indoor: gaming (board's and video's), learning, music
-  - outdoor: cycling, hiking, skiing
-  - other: chatting, comics, community
+  - Indoor: gaming (board's and video's), learning, music
+  - Outdoor: cycling, hiking, skiing
+  - Other: chatting, comics, community
 
 <footer>
   <hr>
