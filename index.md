@@ -52,6 +52,7 @@ title: "Li Yifeng"
 - E-mail
   - [mail@yifen9.li](mailto:mail@yifen9.li)
   - [yifeng.li@studenti.unitn.it](mailto:yifeng.li@studenti.unitn.it)
+  - [yli@fbk.eu](mailto:yli@fbk.eu)
 - Social Media
   - [GitHub](https://github.com/yifen9)
   - [LinkedIn](https://www.linkedin.com/in/yifen9li)
