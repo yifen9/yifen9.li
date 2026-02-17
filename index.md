@@ -7,9 +7,9 @@ title: "Li Yifeng"
 - Base
   - Li Yifeng (李艺峰)
   - November 9, 2005
-  - Shenzhen (CN) => Trento (IT)
+  - Shenzhen (CN) -> Trento (IT)
 - Education
-  - Bachelor of Computer Science, University of Trento, 2024 - Current
+  - Bachelor of Computer Science, University of Trento, Sep, 2024 - Current
 - Experience
   - Research Intern, Fondazione Bruno Kessler, Jan, 2026 - Current
     - With Dr. Simone Bassanelli and Prof. Luca Turchet
