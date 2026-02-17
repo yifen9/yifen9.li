@@ -16,7 +16,8 @@ title: "Li Yifeng"
   - Research Intern, University of Trento, Oct, 2025 - Current
     - With Dr. Elia Cunegatti and Prof. Giovanni Iacca
 - Research
-  - Rising Dispersion in Country-Level Academic Mobility Rankings from ORCID-Derived Flow Networks, Apr, 2024 - Current ([Preprint](https://doi.org/10.5281/zenodo.18068503))
+  - Rising Dispersion in Country-Level Academic Mobility Rankings from ORCID-Derived Flow Networks, Apr, 2024 - Current
+    - Y. Li. Accepted for Poster Presentation at the Network Science Society Conference (NetSci) 2026, Boston, USA ([Preprint](https://doi.org/10.5281/zenodo.18068503))
 - Projects
   - Open Scholar Ranking, Apr, 2024 - Current ([GitHub (Dataset)](https://github.com/yifen9/orcid-springrank) / [GitHub (Examples)](https://github.com/yifen9/osr-examples))
   - Reddit Archive, Sep - Nov, 2025 ([GitHub](https://github.com/open-run-org/archive) / [Website](https://archive.open-run.org))
