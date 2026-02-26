@@ -13,10 +13,10 @@ title: "Li Yifeng"
 - Experience
   - Research Intern, Fondazione Bruno Kessler, Jan, 2026 - Current
     - *GamiDOC: A Tool for Designing and Evaluating Gamified Solutions*
-    - Supervised under Dr. Simone Bassanelli and Prof. Luca Turchet
+    - Supervised under Simone Bassanelli and Luca Turchet
   - Research Intern, University of Trento, Oct, 2025 - Current
     - *Influence maximization over dynamic social networks*
-    - Supervised under Dr. Elia Cunegatti and Prof. Giovanni Iacca
+    - Supervised under Elia Cunegatti and Giovanni Iacca
 - Research
   - Do Financial Transfer Entropy Networks Recover Meaningful Structure? A Matched-DGP Audit of Node-Level Estimation Reliability, Feb, 2026 - Current
     - H. Yang, Y. Li. Accepted for Poster Presentation at the International Conference on Econometrics and Statistics (EcoSta) 2026, Kyoto, Japan ([Acceptance Letter](https://assets.yifen9.li/projects/te-net/papers/ecosta2026/acc1270.pdf))
