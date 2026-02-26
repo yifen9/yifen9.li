@@ -12,10 +12,14 @@ title: "Li Yifeng"
   - Bachelor of Computer Science, University of Trento, Sep, 2024 - Current
 - Experience
   - Research Intern, Fondazione Bruno Kessler, Jan, 2026 - Current
-    - With Dr. Simone Bassanelli and Prof. Luca Turchet
+    - *GamiDOC: A Tool for Designing and Evaluating Gamified Solutions*
+    - Supervised under Dr. Simone Bassanelli and Prof. Luca Turchet
   - Research Intern, University of Trento, Oct, 2025 - Current
-    - With Dr. Elia Cunegatti and Prof. Giovanni Iacca
+    - *Influence maximization over dynamic social networks*
+    - Supervised under Dr. Elia Cunegatti and Prof. Giovanni Iacca
 - Research
+  - Do Financial Transfer Entropy Networks Recover Meaningful Structure? A Matched-DGP Audit of Node-Level Estimation Reliability, Feb, 2026 - Current
+    - H. Yang, Y. Li. Accepted for Poster Presentation at the International Conference on Econometrics and Statistics (EcoSta) 2026, Kyoto, Japan ([Acceptance Letter](https://assets.yifen9.li/projects/te-net/papers/ecosta2026/acc1270.pdf))
   - Rising Dispersion in Country-Level Academic Mobility Rankings from ORCID-Derived Flow Networks, Apr, 2024 - Current
     - Y. Li. Accepted for Poster Presentation at the Network Science Society Conference (NetSci) 2026, Boston, USA ([Preprint](https://doi.org/10.5281/zenodo.18068503))
 - Projects
