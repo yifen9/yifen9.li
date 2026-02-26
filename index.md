@@ -53,6 +53,7 @@ title: "Li Yifeng"
 
 - Academic Identifier
   - [ORCID](https://orcid.org/0009-0001-3340-8104)
+  - [ResearchGate](https://www.researchgate.net/profile/Yifeng-Li-35)
 - E-mail
   - [mail@yifen9.li](mailto:mail@yifen9.li)
   - [yifeng.li@studenti.unitn.it](mailto:yifeng.li@studenti.unitn.it)
