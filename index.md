@@ -32,6 +32,7 @@ title: "Li Yifeng"
 ## Extra
 
 - Packages
+  - te-net-lib, Feb, 2026 ([Documentation](https://lib.te-net.yifen9.li) / [GitHub](https://github.com/yifen9/te-net-lib))
   - DynamicSpringRank.jl, Nov, 2025 - Current ([Documentation](https://dsr-jl.apps.yifen9.li) / [GitHub](https://github.com/yifen9/DynamicSpringRank.jl))
   - SpringRank.jl, Oct - Nov, 2025 ([Documentation](https://sr-jl.apps.yifen9.li) / [GitHub](https://github.com/yifen9/SpringRank.jl))
   - c-labkit, Oct, 2025 ([GitHub](https://github.com/yifen9/c-labkit) / [CLI Package](https://github.com/yifen9/c-labkit/pkgs/container/c-labkit-cli))
