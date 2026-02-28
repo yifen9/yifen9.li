@@ -12,7 +12,7 @@ No specific requirements to join, but with a priority based on:
 
 * Publication >> Experience > Grade Average >> Projects > Language >> Others
 
-Send your CV to yifeng.li@studenti.unitn.it or DM me if interested, DDL next Monday (Mar 2).
+Send your CV to [yifeng.li@studenti.unitn.it](mailto:yifeng.li@studenti.unitn.it) with unitn student email if interested, DDL next Monday (Mar 2).
 
 <footer>
   <hr>
