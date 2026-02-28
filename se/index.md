@@ -2,7 +2,7 @@
 title: "SE Open Call"
 ---
 
-Hi, our SE (Software Engineering) group is hiring 1~2 members
+Hi, our SE (Software Engineering) group is hiring 1~2 members.
 
 Salary is 50 EUR paid for each part of the project (3 parts in total), with a potential bonus (3 figures) based on the final grade and contribution.
 
