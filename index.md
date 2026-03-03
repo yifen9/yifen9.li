@@ -9,33 +9,35 @@ title: "Li Yifeng"
   - November 9, 2005
   - Shenzhen (CN) -> Trento (IT)
 - Education
-  - Bachelor of Computer Science, University of Trento, Sep, 2024 - Current
+  - Bachelor of Computer Science, University of Trento, Sep 2024 - Current
 - Experience
-  - Research Intern, Fondazione Bruno Kessler, Jan, 2026 - Current
+  - Research Intern, Fondazione Bruno Kessler, Jan 2026 - Current
     - *GamiDOC: A Tool for Designing and Evaluating Gamified Solutions*
     - Supervised under Simone Bassanelli and Luca Turchet
-  - Research Intern, University of Trento, Oct, 2025 - Current
+  - Research Intern, University of Trento, Oct 2025 - Current
     - *Influence maximization over dynamic social networks*
     - Supervised under Elia Cunegatti and Giovanni Iacca
 - Research
-  - Do Financial Transfer Entropy Networks Recover Meaningful Structure? A Matched-DGP Audit of Node-Level Estimation Reliability, Feb, 2026 - Current
+  - When Can We Recover Granger/Transfer-Entropy Networks in High Dimensions? Information-Theoretic Limits and Achievable Regimes for VAR Graph Recovery, Current
+    - Y. Li, H. Yang. Submitted for Oral Presentation at the International Conference on Econometrics and Statistics (EcoSta) 2026, Kyoto, Japan.
+  - Do Financial Transfer Entropy Networks Recover Meaningful Structure? A Matched-DGP Audit of Node-Level Estimation Reliability, Feb 2026
     - H. Yang, Y. Li. Accepted for Poster Presentation at the International Conference on Econometrics and Statistics (EcoSta) 2026, Kyoto, Japan ([Acceptance Letter](https://assets.yifen9.li/projects/te-net/papers/ecosta2026/acc1270.pdf))
-  - Rising Dispersion in Country-Level Academic Mobility Rankings from ORCID-Derived Flow Networks, Apr, 2024 - Current
+  - Rising Dispersion in Country-Level Academic Mobility Rankings from ORCID-Derived Flow Networks, Feb 2026
     - Y. Li. Accepted for Poster Presentation at the Network Science Society Conference (NetSci) 2026, Boston, USA ([Preprint](https://doi.org/10.5281/zenodo.18068503))
 - Projects
-  - Open Scholar Ranking, Apr, 2024 - Current ([GitHub (Dataset)](https://github.com/yifen9/orcid-springrank) / [GitHub (Examples)](https://github.com/yifen9/osr-examples))
-  - Reddit Archive, Sep - Nov, 2025 ([GitHub](https://github.com/open-run-org/archive) / [Website](https://archive.open-run.org))
-  - GitHub Auto Inviter, Oct, 2025 ([GitHub](https://github.com/unitn-ap-2025/api) / [OpenAPI](https://unitn-ap-2025.github.io/api))
+  - Open Scholar Ranking, Apr 2024 - Current ([GitHub (Dataset)](https://github.com/yifen9/orcid-springrank) / [GitHub (Examples)](https://github.com/yifen9/osr-examples))
+  - Reddit Archive, Sep - Nov 2025 ([GitHub](https://github.com/open-run-org/archive) / [Website](https://archive.open-run.org))
+  - GitHub Auto Inviter, Oct 2025 ([GitHub](https://github.com/unitn-ap-2025/api) / [OpenAPI](https://unitn-ap-2025.github.io/api))
 - Awards
   - [UniTrento Scholarships](https://web.archive.org/web/20250324133641/https://www.unitn.it/en/study/fees-scholarships-accommodation/scholarships-and-awards/scholarships-international-students), 2024/2025 - Current
 
 ## Extra
 
 - Packages
-  - te-net-lib, Feb, 2026 ([Documentation](https://lib.te-net.yifen9.li) / [GitHub](https://github.com/yifen9/te-net-lib))
-  - DynamicSpringRank.jl, Nov, 2025 - Current ([Documentation](https://dsr-jl.apps.yifen9.li) / [GitHub](https://github.com/yifen9/DynamicSpringRank.jl))
-  - SpringRank.jl, Oct - Nov, 2025 ([Documentation](https://sr-jl.apps.yifen9.li) / [GitHub](https://github.com/yifen9/SpringRank.jl))
-  - c-labkit, Oct, 2025 ([GitHub](https://github.com/yifen9/c-labkit) / [CLI Package](https://github.com/yifen9/c-labkit/pkgs/container/c-labkit-cli))
+  - te-net-lib, Feb 2026 ([Documentation](https://lib.te-net.yifen9.li) / [GitHub](https://github.com/yifen9/te-net-lib))
+  - DynamicSpringRank.jl, Nov 2025 - Current ([Documentation](https://dsr-jl.apps.yifen9.li) / [GitHub](https://github.com/yifen9/DynamicSpringRank.jl))
+  - SpringRank.jl, Oct - Nov 2025 ([Documentation](https://sr-jl.apps.yifen9.li) / [GitHub](https://github.com/yifen9/SpringRank.jl))
+  - c-labkit, Oct 2025 ([GitHub](https://github.com/yifen9/c-labkit) / [CLI Package](https://github.com/yifen9/c-labkit/pkgs/container/c-labkit-cli))
 
 ## Files
 
