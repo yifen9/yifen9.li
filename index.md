@@ -9,7 +9,7 @@ title: "Li Yifeng"
   - November 9, 2005
   - Shenzhen (CN) -> Trento (IT)
 - Education
-  - Bachelor of Computer Science, University of Trento, Sep 2024 - Current
+  - Bachelor’s Degree in Computer Science (L-31), University of Trento, Sep 2024 - Current
 - Experience
   - Research Intern, Fondazione Bruno Kessler, Jan 2026 - Current
     - *GamiDOC: A Tool for Designing and Evaluating Gamified Solutions*
