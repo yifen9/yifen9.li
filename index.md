@@ -55,6 +55,7 @@ title: "Li Yifeng"
 ## Links
 
 - Academic Identifier
+  - [Google Scholar](https://scholar.google.com/citations?user=e-onISEAAAAJ)
   - [ORCID](https://orcid.org/0009-0001-3340-8104)
   - [ResearchGate](https://www.researchgate.net/profile/Yifeng-Li-35)
 - E-mail
