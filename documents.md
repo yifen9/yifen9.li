@@ -4,16 +4,16 @@ title: "Li Yifeng"
 
 [Home](./) | [Research](./research) | [Projects](./projects) | [Documents](./documents) | [Links](./links) | [About](./about)
 
-## Documents
+# Documents
 
 - [Avatar](https://assets.yifen9.li/shared/avatar.png)
 - [Curriculum Vitae](https://assets.yifen9.li/shared/cv.pdf)
 
-### Grade Point Average
+## Grade Point Average
 
 - [Bachelor UniTrento](https://assets.yifen9.li/shared/gpa/bsc_unitn.pdf)
 
-### Language Certificates
+## Language Certificates
 
 - [English IELTS](https://assets.yifen9.li/shared/lang/en_ielts.pdf)
 - [Japanese JLPT](https://assets.yifen9.li/shared/lang/jp_jlpt.png)

@@ -4,7 +4,7 @@ title: "Li Yifeng"
 
 [Home](./) | [Research](./research) | [Projects](./projects) | [Documents](./documents) | [Links](./links) | [About](./about)
 
-## Research
+# Research
 
 - Recovering Granger/Transfer-Entropy Networks in High-Dimensional VARs: Limits and Achievability, Current
   - Y. Li, H. Yang. Accepted for Oral Presentation at the International Conference on Econometrics and Statistics (EcoSta) 2026, Kyoto, Japan ([Acceptance Letter](https://assets.yifen9.li/projects/te-net/papers/ecosta2026/acc1287.pdf) / [Preprint](https://dx.doi.org/10.2139/ssrn.6339298))

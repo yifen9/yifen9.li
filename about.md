@@ -4,9 +4,9 @@ title: "Li Yifeng"
 
 [Home](./) | [Research](./research) | [Projects](./projects) | [Documents](./documents) | [Links](./links) | [About](./about)
 
-## About
+# About
 
-### Fav
+## Fav
 
 - Fav geography:
   - City: Copenhagen, Prague, Strasbourg
@@ -21,7 +21,7 @@ title: "Li Yifeng"
   - Outdoor: cycling, hiking, skiing
   - Other: chatting, comics, community
 
-### Meta
+## Meta
 
 <footer>
   <p align="center">
