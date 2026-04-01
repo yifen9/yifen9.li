@@ -4,6 +4,8 @@ title: "Li Yifeng"
 
 [Home](./) | [Research](./research) | [Projects](./projects) | [Documents](./documents) | [Links](./links) | [About](./about)
 
+---
+
 # Research
 
 - Recovering Granger/Transfer-Entropy Networks in High-Dimensional VARs: Limits and Achievability, Current

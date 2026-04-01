@@ -4,6 +4,8 @@ title: "Li Yifeng"
 
 [Home](./) | [Research](./research) | [Projects](./projects) | [Documents](./documents) | [Links](./links) | [About](./about)
 
+---
+
 # About
 
 - Fav geography:
