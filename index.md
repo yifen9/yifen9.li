@@ -7,7 +7,10 @@ title: "Li Yifeng"
 ## Home
 
 <div align="center">
-  <img src="https://assets.yifen9.li/shared/avatar.png" alt="avatar" style="width: 50%;"/>
+  <img src="https://assets.yifen9.li/shared/avatar.png" alt="avatar" style="width: 33%;"/>
+</div>
+
+<div align="center">
   <img src="https://counter.clarelab.moe/@www-yifeng-li?name=www-yifeng-li&theme=sketch-1&padding=8&offset=0&align=top&scale=0.2&pixelated=1&darkmode=0" alt=":counter" />
 </div>
 
