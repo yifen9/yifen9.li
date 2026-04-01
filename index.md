@@ -9,7 +9,7 @@ title: "Li Yifeng"
 # Home
 
 <div align="center">
-  <img src="https://assets.yifen9.li/shared/avatar.png" alt="avatar" style="width: 33%;"/>
+  <img src="https://assets.yifen9.li/shared/avatar.png" alt="avatar" style="width: 25%;"/>
 </div>
 
 <div align="center">
