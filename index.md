@@ -9,7 +9,7 @@ title: "Li Yifeng"
 # Home
 
 <div style="display: flex; gap: 2rem; align-items: flex-start;">
-  <div style="width: 50%; text-align: center;">
+  <div style="width: 50%; text-align: right;">
     <img src="https://assets.yifen9.li/shared/avatar.png" alt="avatar" style="width: 50%;" />
     <br />
     <img src="https://counter.clarelab.moe/@www-yifeng-li?name=www-yifeng-li&theme=sketch-1&padding=8&offset=0&align=top&scale=0.2&pixelated=1&darkmode=0" alt=":counter" />
