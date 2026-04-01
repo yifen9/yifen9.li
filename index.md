@@ -10,7 +10,7 @@ title: "Li Yifeng"
 
 <div style="display: flex; gap: 2rem; align-items: flex-start;">
   <div style="width: 50%; text-align: right;">
-    <img src="https://assets.yifen9.li/shared/avatar.png" alt="avatar" style="width: 50%;" />
+    <img src="https://assets.yifen9.li/shared/avatar.png" alt="avatar" style="width: 200px;" />
     <br />
     <img src="https://counter.clarelab.moe/@www-yifeng-li?name=www-yifeng-li&theme=sketch-1&padding=8&offset=0&align=top&scale=0.2&pixelated=1&darkmode=0" alt=":counter" />
   </div>
@@ -20,7 +20,6 @@ title: "Li Yifeng"
       <li>Li Yifeng (李 艺峰)</li>
       <li>November 9, 2005</li>
       <li>Shenzhen (CN) -> Trento (IT)</li>
-      <li><a href="mailto:mail@yifen9.li">mail@yifen9.li</a> / <a href="mailto:yifeng.li@studenti.unitn.it">yifeng.li@studenti.unitn.it</a></li>
       <li><a href="https://assets.yifen9.li/shared/cv.pdf">CV</a></li>
       <li><a href="https://blog.yifen9.li">Blog</a></li>
     </ul>
