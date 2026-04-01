@@ -2,9 +2,11 @@
 title: "Li Yifeng"
 ---
 
-[Home](./) | [Research](./research.html) | [Projects](./projects.html) | [Documents](./documents.html) | [Links](./links.html) | [About](./about.html)
+[Home](./) | [Research](./research) | [Projects](./projects) | [Documents](./documents) | [Links](./links) | [About](./about)
 
 ## About
+
+### Fav
 
 - Fav geography:
   - City: Copenhagen, Prague, Strasbourg
@@ -19,8 +21,9 @@ title: "Li Yifeng"
   - Outdoor: cycling, hiking, skiing
   - Other: chatting, comics, community
 
+### Meta
+
 <footer>
-  <hr>
   <p align="center">
     <img src="https://counter.clarelab.moe/@www-yifeng-li?name=www-yifeng-li&theme=sketch-1&padding=8&offset=0&align=top&scale=0.2&pixelated=1&darkmode=0" alt=":counter" />
   </p>

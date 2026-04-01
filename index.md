@@ -2,11 +2,14 @@
 title: "Li Yifeng"
 ---
 
-[Home](./) | [Research](./research.html) | [Projects](./projects.html) | [Documents](./documents.html) | [Links](./links.html) | [About](./about.html)
+[Home](./) | [Research](./research) | [Projects](./projects) | [Documents](./documents) | [Links](./links) | [About](./about)
 
 ## Home
 
-![avatar](https://assets.yifen9.li/shared/avatar.png)
+<div align="center">
+  <img src="https://assets.yifen9.li/shared/avatar.png" alt="avatar" style="width: 50%;"/>
+  <img src="https://counter.clarelab.moe/@www-yifeng-li?name=www-yifeng-li&theme=sketch-1&padding=8&offset=0&align=top&scale=0.2&pixelated=1&darkmode=0" alt=":counter" />
+</div>
 
 - Base
   - Li Yifeng (李艺峰)
@@ -25,17 +28,3 @@ title: "Li Yifeng"
     - Supervised under Elia Cunegatti and Giovanni Iacca
 - Awards
   - [UniTrento Scholarships](https://web.archive.org/web/20250324133641/https://www.unitn.it/en/study/fees-scholarships-accommodation/scholarships-and-awards/scholarships-international-students), 2024/2025 - Current
-
-<footer>
-  <hr>
-  <p align="center">
-    <img src="https://counter.clarelab.moe/@www-yifeng-li?name=www-yifeng-li&theme=sketch-1&padding=8&offset=0&align=top&scale=0.2&pixelated=1&darkmode=0" alt=":counter" />
-  </p>
-  <p align="center">
-    © {{ site.time | date: "%Y" }} <a href="https://yifen9.li">Li Yifeng</a>
-  </p>
-  <p align="center">
-    <a href="https://github.com">GitHub</a> &amp;
-    <a href="https://github.com/pages-themes/architect">Jekyll Architect</a>
-  </p>
-</footer>
