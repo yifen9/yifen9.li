@@ -6,8 +6,6 @@ title: "Li Yifeng"
 
 # About
 
-## Fav
-
 - Fav geography:
   - City: Copenhagen, Prague, Strasbourg
   - Region: Alps, Hokkaido, Scandinavia
@@ -23,15 +21,8 @@ title: "Li Yifeng"
 
 ## Meta
 
-<footer>
-  <p align="center">
-    <img src="https://counter.clarelab.moe/@www-yifeng-li?name=www-yifeng-li&theme=sketch-1&padding=8&offset=0&align=top&scale=0.2&pixelated=1&darkmode=0" alt=":counter" />
-  </p>
-  <p align="center">
-    © {{ site.time | date: "%Y" }} <a href="https://yifen9.li">Li Yifeng</a>
-  </p>
-  <p align="center">
-    <a href="https://github.com">GitHub</a> &amp;
-    <a href="https://github.com/pages-themes/architect">Jekyll Architect</a>
-  </p>
-</footer>
+- Copyright
+  - © {{ site.time | date: "%Y" }} [Li Yifeng](https://yifen9.li)
+- Tech Stack
+  - [GitHub](https://github.com)
+  - [Jekyll Architect](https://github.com/pages-themes/architect)
