@@ -30,5 +30,3 @@ title: "Li Yifeng"
 - [Blog](https://blog.yifen9.li)
 - [UniTrento L-31 Boardgame Club](https://bg.unitn.yifen9.li)
 - [UniTrento L-31 Lab](https://l31.unitn.yifen9.li)
-- [UniTrento Problemset](https://pset.unitn.yifen9.li)
-- [UniTrento UniOpera Printer Service](https://opera.unitn.yifen9.li)
