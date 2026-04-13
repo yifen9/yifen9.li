@@ -32,10 +32,10 @@ title: "Li Yifeng"
 
 ## Experience
 
-- Research Intern, Fondazione Bruno Kessler, Jan 2026 - Current
+- Backend Development Intern, Fondazione Bruno Kessler, Jan 2026 - Current
   - *GamiDOC: A Tool for Designing and Evaluating Gamified Solutions*
   - Supervised under Simone Bassanelli and Luca Turchet
-- Research Intern, University of Trento, Oct 2025 - Current
+- Research Intern, University of Trento, Oct 2025 - Current (Paused)
   - *Influence maximization over dynamic social networks*
   - Supervised under Elia Cunegatti and Giovanni Iacca
 
