@@ -8,7 +8,7 @@ title: "Li Yifeng"
 
 # Research
 
-- Access to a Concentrated Academic Core: Non-Core Intermediaries and Budget-Dependent Disruption in Global Mobility Networks
+- Access to a Concentrated Academic Core: Non-Core Intermediaries and Budget-Dependent Disruption in Global Mobility Networks, Current
   - Y. Li. Submitted to Nordic Conference on Computational Social Science (CS2Nordics) 2026, Copenhagen, Denmark ([Preprint](https://doi.org/10.5281/zenodo.19653916))
 - Recovering Granger/Transfer-Entropy Networks in High-Dimensional VARs: Limits and Achievability, March 2026
   - Y. Li, H. Yang. Accepted for Oral Presentation at the International Conference on Econometrics and Statistics (EcoSta) 2026, Kyoto, Japan ([Acceptance Letter](https://assets.yifen9.li/projects/te-net/papers/ecosta2026/acc1287.pdf) / [Preprint](https://dx.doi.org/10.2139/ssrn.6339298))
