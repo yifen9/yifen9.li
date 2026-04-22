@@ -32,7 +32,7 @@ title: "Li Yifeng"
 
 ## Experience
 
-- Backend Development / Research Intern, Fondazione Bruno Kessler, Jan 2026 - Current
+- Research / Backend Development Intern, Fondazione Bruno Kessler, Jan 2026 - Current
   - *Social Data Analysis and Modeling with FBK CHuB*
   - *GamiDOC: A Tool for Designing and Evaluating Gamified Solutions*
   - Supervised under Simone Bassanelli and Luca Turchet
