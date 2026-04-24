@@ -1,5 +1,5 @@
 ---
-title: "Li Yifeng"
+title: "LI Yifeng"
 ---
 
 [Home](./) | [Curriculum](./curriculum) | [Research](./research) | [Projects](./projects) | [News](./news) | [Links](./links)
