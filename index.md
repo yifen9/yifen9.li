@@ -25,12 +25,12 @@ title: "LI Yifeng"
 </div>
 
 <div style="display: flex; gap: 2rem;">
-  <div style="width: 50%; text-align: right;">
-    Hello, World!
+  <div style="width: 100%;">
+    <iframe width="256px" height="128px" src="https://www.openstreetmap.org/export/embed.html?bbox=11.14803045988083%2C46.06618537096874%2C11.151570975780489%2C46.06778765918002" style="border: 1px solid black"></iframe>
   </div>
 
-  <div style="width: 50%;">
-    <iframe width="128px" height="128px" src="https://www.openstreetmap.org/export/embed.html?bbox=11.130867004394531%2C46.062288322607856%2C11.145029067993166%2C46.06869764884959" style="border: 1px solid black"></iframe>
+  <div style="width: 50%; text-align: right;">
+    Hello, World!
   </div>
 </div>
 
