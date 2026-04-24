@@ -29,6 +29,8 @@ title: "LI Yifeng"
   - My submission: *When Can We Recover Granger/Transfer-Entropy Networks in High Dimensions? Information-Theoretic Limits and Achievable Regimes for VAR Graph Recovery* is now posted on **SSRN**
 - 11
   - I received an offer of conditional admission to the MSc Programme in Computer Science starting on 1 September 2026, from the **University of Copenhagen**, Denmark
+- 04
+  - My abstract 'E1287: *Recovering Granger/Transfer-Entropy Networks in High-Dimensional VARs: Limits and Achievability* has been accepted for presentation conditionally that the presenting author is registered for the conference by 8th May 2026, from **EcoSta 2026**
 
 ### Feb
 
@@ -40,4 +42,4 @@ title: "LI Yifeng"
 - 30
   - I passed the **JLPT N3** exam
 - 06
-  - My internship at **FBK GamiDOC** has been started, supervised under Dr. Simone Bassanelli and Prof. Luca Turchet
+  - My internship at **FBK GamiDOC** started, supervised under Dr. Simone Bassanelli and Prof. Luca Turchet
