@@ -11,8 +11,6 @@ title: "LI Yifeng"
 <div style="display: flex; gap: 2rem; align-items: flex-start;">
   <div style="width: 50%; text-align: right;">
     <img src="https://assets.yifen9.li/shared/avatar.png" alt="avatar" style="width: 128px;" />
-    <br />
-    <img src="https://counter.clarelab.moe/@www-yifeng-li?name=www-yifeng-li&theme=sketch-1&padding=8&offset=0&align=top&scale=0.2&pixelated=1&darkmode=0" alt=":counter" />
   </div>
 
   <div style="width: 50%;">
@@ -57,3 +55,5 @@ title: "LI Yifeng"
 - Tech Stack
   - [GitHub](https://github.com)
   - [Jekyll Architect](https://github.com/pages-themes/architect)
+- Visitor Count
+  - <img src="https://counter.clarelab.moe/@www-yifeng-li?name=www-yifeng-li&theme=sketch-1&padding=8&offset=0&align=top&scale=0.2&pixelated=1&darkmode=0" alt=":counter" />
