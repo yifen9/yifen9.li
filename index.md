@@ -24,11 +24,7 @@ title: "LI Yifeng"
   </div>
 </div>
 
-<div style="display: flex; gap: 2rem;">
-  <div style="width: 100%; text-align: center;">
-    <iframe width="100%" height="256px" src="https://www.openstreetmap.org/export/embed.html?bbox=11.14803045988083%2C46.06618537096874%2C11.151570975780489%2C46.06778765918002" style="border: 1px solid black"></iframe>
-  </div>
-</div>
+## Bio
 
 <div style="display: flex; gap: 2rem;">
   <div style="width: 25%;"></div>
@@ -37,6 +33,23 @@ title: "LI Yifeng"
   </div>
   <div style="width: 25%;"></div>
 </div>
+
+## Access
+
+<div style="display: flex; gap: 2rem;">
+  <div style="width: 100%; text-align: center;">
+    <iframe width="100%" height="256px" src="https://www.openstreetmap.org/export/embed.html?bbox=11.14803045988083%2C46.06618537096874%2C11.151570975780489%2C46.06778765918002" style="border: 1px solid black"></iframe>
+  </div>
+</div>
+
+- English
+  - Department of Information Engineering and Computer Science - DISI
+  - Via Sommarive, 9 I-38123 Povo (TN)
+- Italian
+  - Dipartimento di Ingegneria e Scienza dell'Informazione - DISI
+  - Via Sommarive, 9 I-38123 Povo (TN)
+
+## Fav
 
 <table style="width: 100%; border-collapse: collapse; text-align: left;">
   <tr>
@@ -107,6 +120,8 @@ title: "LI Yifeng"
     <td style="border: 1px solid black;">Community</td>
   </tr>
 </table>
+
+## Meta
 
 <table style="width: 100%; border-collapse: collapse; text-align: left;">
   <tr>
