@@ -26,7 +26,7 @@ title: "LI Yifeng"
 
 <div style="display: flex; gap: 2rem;">
   <div style="width: 100%; text-align: center;">
-    <iframe width="50%" height="128px" src="https://www.openstreetmap.org/export/embed.html?bbox=11.14803045988083%2C46.06618537096874%2C11.151570975780489%2C46.06778765918002" style="border: 1px solid black"></iframe>
+    <iframe width="100%" height="256px" src="https://www.openstreetmap.org/export/embed.html?bbox=11.14803045988083%2C46.06618537096874%2C11.151570975780489%2C46.06778765918002" style="border: 1px solid black"></iframe>
   </div>
 </div>
 
@@ -38,18 +38,75 @@ title: "LI Yifeng"
   <div style="width: 25%;"></div>
 </div>
 
-- Fav geography:
-  - City: Copenhagen, Prague, Strasbourg
-  - Region: Alps, Hokkaido, Scandinavia
-  - Country: Czechia, Japan, Norway
-- Fav thing:
-  - Animal: cat, crow, owl
-  - Food: gelato, pierogi, ramen
-  - Weather: foggy, raining, snowing
-- Fav activities:
-  - Indoor: gaming (board's and video's), learning, music
-  - Outdoor: cycling, hiking, skiing
-  - Other: chatting, comics, community
+<table style="width: 100%; text-align: left;">
+  <tr>
+    <th>Category</th>
+    <th>Type</th>
+    <th>#1</th>
+    <th>#2</th>
+    <th>#3</th>
+  </tr>
+
+  <tr>
+    <td rowspan="3">Geography</td>
+    <td>City</td>
+    <td>Copenhagen</td>
+    <td>Prague</td>
+    <td>Strasbourg</td>
+  </tr>
+  <tr>
+    <td>Region</td>
+    <td>Alps</td>
+    <td>Hokkaido</td>
+    <td>Scandinavia</td>
+  </tr>
+  <tr>
+    <td>Country</td>
+    <td>Czechia</td>
+    <td>Japan</td>
+    <td>Norway</td>
+  </tr>
+
+  <tr>
+    <td rowspan="3">Thing</td>
+    <td>Animal</td>
+    <td>Cat</td>
+    <td>Crow</td>
+    <td>Owl</td>
+  </tr>
+  <tr>
+    <td>Food</td>
+    <td>Gelato</td>
+    <td>Pierogi</td>
+    <td>Ramen</td>
+  </tr>
+  <tr>
+    <td>Weather</td>
+    <td>Foggy</td>
+    <td>Raining</td>
+    <td>Snowing</td>
+  </tr>
+
+  <tr>
+    <td rowspan="3">Activities</td>
+    <td>Indoor</td>
+    <td>Board Games</td>
+    <td>Video Games</td>
+    <td>Learning / Music</td>
+  </tr>
+  <tr>
+    <td>Outdoor</td>
+    <td>Cycling</td>
+    <td>Hiking</td>
+    <td>Skiing</td>
+  </tr>
+  <tr>
+    <td>Other</td>
+    <td>Chatting</td>
+    <td>Comics</td>
+    <td>Community</td>
+  </tr>
+</table>
 
 ## Meta
 
