@@ -64,7 +64,7 @@ title: "LI Yifeng"
   <tr>
     <td style="border: 1px solid black;">Spring 2027</td>
     <td style="border: 1px solid black;">—</td>
-    <td style="border: 1px solid black;">Japan</td>
+    <td style="border: 1px solid black;"><a href="http://en.wikipedia.org/wiki/Japan"><img src="./img/128px-Flag_of_Japan.png" width="25" alt="Japan" title="Japan" border="1" align="top"></td>
     <td style="border: 1px solid black;">Tokyo</td>
   </tr>
 
