@@ -17,38 +17,22 @@ title: "LI Yifeng"
     <ul>
       <li>LI Yifeng (李 艺峰)</li>
       <li>November 9, 2005</li>
-      <li>Trento (IT)</li>
+      <li>Shenzhen (CN)</li>
       <li><a href="https://assets.yifen9.li/shared/cv.pdf">CV</a></li>
       <li><a href="https://blog.yifen9.li">Blog</a></li>
     </ul>
   </div>
 </div>
 
-<br />
+<div style="display: flex; gap: 2rem;">
+  <div style="width: 50%; text-align: center;">
+    Hello, World!
+  </div>
 
-<div style="width: 50%; margin: 0 auto; text-align: center;">
-  Hello, World!
+  <div style="width: 50%;">
+    <iframe width="128px" height="128px" src="https://www.openstreetmap.org/export/embed.html?bbox=11.130867004394531%2C46.062288322607856%2C11.145029067993166%2C46.06869764884959&amp;layer=mapnik" style="border: 1px solid black"></iframe>
+  </div>
 </div>
-
-<br />
-
-<div style="width: 75%; margin: 0 auto; text-align: center;">
-  <iframe
-    src="https://www.openstreetmap.org/export/embed.html?bbox=11.05%2C46.02%2C11.15%2C46.09&layer=mapnik"
-    title="Map around Trento"
-    loading="lazy"
-    referrerpolicy="no-referrer-when-downgrade"
-    style="width: 100%; height: 360px; border: 1px solid #ddd;">
-  </iframe>
-
-  <br />
-
-  <a href="https://www.openstreetmap.org/#map=13/46.066/11.121">
-    View larger map
-  </a>
-</div>
-
-<br />
 
 ## Fav
 
