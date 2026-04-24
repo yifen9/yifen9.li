@@ -2,8 +2,7 @@
 title: "Li Yifeng"
 ---
 
-[Home](./) | [Experience](./experience) | [Research](./research) | [Projects](./projects) | [News](./news) | [Links](./links)
-
+[Home](./) | [Curriculum](./experience) | [Research](./research) | [Projects](./projects) | [News](./news) | [Links](./links)
 ---
 
 # Projects
