@@ -26,11 +26,11 @@ title: "LI Yifeng"
 
 <br />
 
-<div>
-  <div style="width: 100%; text-align: center;">
-    Hello, World!
-  </div>
+<div style="width: 100%; text-align: center;">
+  Hello, World!
 </div>
+
+<br />
 
 ## Fav
 
