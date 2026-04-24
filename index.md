@@ -17,7 +17,7 @@ title: "Li Yifeng"
 
   <div style="width: 50%;">
     <ul>
-      <li>Li Yifeng (李 艺峰)</li>
+      <li>LI Yifeng (李 艺峰)</li>
       <li>November 9, 2005</li>
       <li>Shenzhen (CN) -> Trento (IT)</li>
       <li><a href="https://assets.yifen9.li/shared/cv.pdf">CV</a></li>
@@ -44,7 +44,7 @@ title: "Li Yifeng"
 ## Meta
 
 - Copyright
-  - © {{ site.time | date: "%Y" }} [Li Yifeng](https://yifen9.li)
+  - © {{ site.time | date: "%Y" }} [LI Yifeng](https://yifen9.li)
 - License
   - Text under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
   - Code under [MIT License](https://spdx.org/licenses/MIT.html)
