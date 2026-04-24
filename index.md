@@ -36,7 +36,7 @@ title: "LI Yifeng"
 
 ## Access
 
-<div style="display: flex; gap: 2rem;">
+<div style="gap: 2rem;">
   <div style="width: 100%; text-align: center;">
     <iframe width="100%" height="256px" src="https://www.openstreetmap.org/export/embed.html?bbox=11.14803045988083%2C46.06618537096874%2C11.151570975780489%2C46.06778765918002" style="border: 1px solid black"></iframe>
   </div>
@@ -48,6 +48,54 @@ title: "LI Yifeng"
 - Italian
   - Dipartimento di Ingegneria e Scienza dell'Informazione - DISI
   - Via Sommarive, 9 I-38123 Povo (TN)
+
+## Trace
+
+*Including planned locations; only non-tourism stays are included*
+
+<table style="width: 100%; border-collapse: collapse; text-align: left;">
+  <tr>
+    <th style="border: 1px solid black; text-align: center; font-weight: bold;">From</th>
+    <th style="border: 1px solid black; text-align: center; font-weight: bold;">To</th>
+    <th style="border: 1px solid black; text-align: center; font-weight: bold;">Country</th>
+    <th style="border: 1px solid black; text-align: center; font-weight: bold;">City</th>
+  </tr>
+
+  <tr>
+    <td style="border: 1px solid black;">Spring 2027</td>
+    <td style="border: 1px solid black;">—</td>
+    <td style="border: 1px solid black;">Japan</td>
+    <td style="border: 1px solid black;">Tokyo</td>
+  </tr>
+
+  <tr>
+    <td style="border: 1px solid black;">Dec 2026</td>
+    <td style="border: 1px solid black;">Spring 2027</td>
+    <td style="border: 1px solid black;">Italy</td>
+    <td style="border: 1px solid black;">Trento</td>
+  </tr>
+
+  <tr>
+    <td style="border: 1px solid black;">Sep 2026</td>
+    <td style="border: 1px solid black;">Dec 2026</td>
+    <td style="border: 1px solid black;">Belgium</td>
+    <td style="border: 1px solid black;">Ghent</td>
+  </tr>
+
+  <tr>
+    <td style="border: 1px solid black;">Oct 2024</td>
+    <td style="border: 1px solid black;">Sep 2026</td>
+    <td style="border: 1px solid black;">Italy</td>
+    <td style="border: 1px solid black;">Trento</td>
+  </tr>
+
+  <tr>
+    <td style="border: 1px solid black;">Nov 2005</td>
+    <td style="border: 1px solid black;">Oct 2024</td>
+    <td style="border: 1px solid black;">China</td>
+    <td style="border: 1px solid black;">Shenzhen</td>
+  </tr>
+</table>
 
 ## Fav
 
