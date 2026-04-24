@@ -10,7 +10,7 @@ title: "LI Yifeng"
 
 <div style="display: flex; gap: 2rem; align-items: flex-start;">
   <div style="width: 50%; text-align: right;">
-    <img src="https://assets.yifen9.li/shared/avatar.png" alt="avatar" style="width: 128px;" />
+    <img src="https://assets.yifen9.li/shared/avatar.png" alt="avatar" style="width: 128px; border: 1px solid black" />
   </div>
 
   <div style="width: 50%;">
