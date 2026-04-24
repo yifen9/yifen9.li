@@ -111,31 +111,29 @@ title: "LI Yifeng"
 <table style="width: 100%; border-collapse: collapse; text-align: left;">
   <tr>
     <th style="border: 1px solid black; text-align: center; font-weight: bold;">Category</th>
-    <th style="border: 1px solid black; text-align: center; font-weight: bold;">Type</th>
     <th style="border: 1px solid black; text-align: center; font-weight: bold;">Content</th>
   </tr>
 
   <tr>
     <td style="border: 1px solid black;">Copyright</td>
-    <td style="border: 1px solid black;">Owner</td>
     <td style="border: 1px solid black;">© {{ site.time | date: "%Y" }} <a href="https://yifen9.li">LI Yifeng</a></td>
   </tr>
 
   <tr>
-    <td rowspan="2" style="border: 1px solid black;">License</td>
-    <td style="border: 1px solid black;">Text</td>
-    <td style="border: 1px solid black;">CC BY-SA 4.0</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black;">Code</td>
-    <td style="border: 1px solid black;">MIT License</td>
+    <td style="border: 1px solid black;">Text License</td>
+    <td style="border: 1px solid black;"><a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></td>
   </tr>
 
   <tr>
-    <td rowspan="2" style="border: 1px solid black;">Tech Stack</td>
+    <td style="border: 1px solid black;">Code License</td>
+    <td style="border: 1px solid black;"><a href="https://spdx.org/licenses/MIT.html">MIT License</a></td>
+  </tr>
+
+  <tr>
     <td style="border: 1px solid black;">Hosting</td>
     <td style="border: 1px solid black;"><a href="https://github.com">GitHub</a></td>
   </tr>
+
   <tr>
     <td style="border: 1px solid black;">Theme</td>
     <td style="border: 1px solid black;"><a href="https://github.com/pages-themes/architect">Jekyll Architect</a></td>
@@ -143,7 +141,6 @@ title: "LI Yifeng"
 
   <tr>
     <td style="border: 1px solid black;">Visitor Count</td>
-    <td style="border: 1px solid black;">Counter</td>
     <td style="border: 1px solid black;">
       <img src="https://counter.clarelab.moe/@www-yifeng-li?name=www-yifeng-li&theme=sketch-1&padding=8&offset=0&align=top&scale=0.2&pixelated=1&darkmode=0" alt=":counter" />
     </td>
