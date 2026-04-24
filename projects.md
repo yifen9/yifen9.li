@@ -2,12 +2,13 @@
 title: "Li Yifeng"
 ---
 
-[Home](./) | [Research](./research) | [Projects](./projects) | [Documents](./documents) | [Links](./links) | [About](./about)
+[Home](./) | [Experience](./experience) | [Research](./research) | [Projects](./projects) | [News](./news) | [Links](./links)
 
 ---
 
 # Projects
 
+- GamiDOC, Jan 2026 - Current ([GitHub](https://github.com/gamidoc))
 - Open Scholar Ranking, Apr 2024 - Current ([GitHub (Dataset)](https://github.com/yifen9/orcid-springrank) / [GitHub (Examples)](https://github.com/yifen9/osr-examples))
 - Reddit Archive, Sep - Nov 2025 ([GitHub](https://github.com/open-run-org/archive) / [Website](https://archive.open-run.org))
 - GitHub Auto Inviter, Oct 2025 ([GitHub](https://github.com/unitn-ap-2025/api) / [OpenAPI](https://unitn-ap-2025.github.io/api))

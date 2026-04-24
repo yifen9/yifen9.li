@@ -2,7 +2,7 @@
 title: "Li Yifeng"
 ---
 
-[Home](./) | [Research](./research) | [Projects](./projects) | [Documents](./documents) | [Links](./links) | [About](./about)
+[Home](./) | [Experience](./experience) | [Research](./research) | [Projects](./projects) | [News](./news) | [Links](./links)
 
 ---
 
@@ -26,20 +26,28 @@ title: "Li Yifeng"
   </div>
 </div>
 
-## Education
+## Fav
 
-- Bachelor’s Degree in Computer Science (L-31), University of Trento, Sep 2024 - Current
+- Fav geography:
+  - City: Copenhagen, Prague, Strasbourg
+  - Region: Alps, Hokkaido, Scandinavia
+  - Country: Czechia, Japan, Norway
+- Fav thing:
+  - Animal: cat, crow, owl
+  - Food: gelato, pierogi, ramen
+  - Weather: foggy, raining, snowing
+- Fav activities:
+  - Indoor: gaming (board's and video's), learning, music
+  - Outdoor: cycling, hiking, skiing
+  - Other: chatting, comics, community
 
-## Experience
+## Meta
 
-- Research / Backend Development Intern, Fondazione Bruno Kessler, Jan 2026 - Current
-  - *Social Data Analysis and Modeling with FBK CHuB*
-  - *GamiDOC: A Tool for Designing and Evaluating Gamified Solutions*
-  - Supervised under Simone Bassanelli and Luca Turchet
-- Research Intern, University of Trento, Oct 2025 - Current (Paused)
-  - *Influence maximization over dynamic social networks*
-  - Supervised under Elia Cunegatti and Giovanni Iacca
-
-## Awards
-
-- [UniTrento Scholarships](https://web.archive.org/web/20250324133641/https://www.unitn.it/en/study/fees-scholarships-accommodation/scholarships-and-awards/scholarships-international-students), 2024/2025 - Current
+- Copyright
+  - © {{ site.time | date: "%Y" }} [Li Yifeng](https://yifen9.li)
+- License
+  - Text under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+  - Code under [MIT License](https://spdx.org/licenses/MIT.html)
+- Tech Stack
+  - [GitHub](https://github.com)
+  - [Jekyll Architect](https://github.com/pages-themes/architect)
