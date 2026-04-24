@@ -26,6 +26,12 @@ title: "LI Yifeng"
   </div>
 </div>
 
+<div>
+  <div style="width: 50%; text-align: center;">
+    Hello, World!
+  </div>
+</div>
+
 ## Fav
 
 - Fav geography:
