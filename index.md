@@ -24,7 +24,7 @@ title: "LI Yifeng"
   </div>
 </div>
 
-</br>
+<br />
 
 <div>
   <div style="width: 100%; text-align: center;">
