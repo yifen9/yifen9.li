@@ -27,12 +27,12 @@ title: "LI Yifeng"
 ## Bio
 
 <div style="box-sizing: border-box; width: 100%; margin: 0 auto; border: 1px solid black; padding: 1rem; text-align: center;">
-  <div style="margin-bottom: 1rem;">
-    <button onclick="document.getElementById('bio-first').style.display='block'; document.getElementById('bio-third').style.display='none';">
+  <div style="margin-bottom: 1.5rem;">
+    <button style="margin-right: 1rem;" onclick="document.getElementById('bio-first').style.display='block'; document.getElementById('bio-third').style.display='none';">
       1st
     </button>
 
-    <button onclick="document.getElementById('bio-first').style.display='none'; document.getElementById('bio-third').style.display='block';">
+    <button style="margin-left: 1rem;" onclick="document.getElementById('bio-first').style.display='none'; document.getElementById('bio-third').style.display='block';">
       3rd
     </button>
   </div>
