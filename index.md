@@ -53,7 +53,7 @@ title: "LI Yifeng"
 
 *Including planned locations; only non-tourism stays are included*
 
-<table style="width: 100%; border-collapse: collapse; text-align: left;">
+<table style="width: 100%; border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black; text-align: center; font-weight: bold;">From</th>
     <th style="border: 1px solid black; text-align: center; font-weight: bold;">To</th>
@@ -99,7 +99,7 @@ title: "LI Yifeng"
 
 ## Fav
 
-<table style="width: 100%; border-collapse: collapse; text-align: left;">
+<table style="width: 100%; border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black; text-align: center; font-weight: bold;">Category</th>
     <th style="border: 1px solid black; text-align: center; font-weight: bold;">Type</th>
@@ -171,7 +171,7 @@ title: "LI Yifeng"
 
 ## Meta
 
-<table style="width: 100%; border-collapse: collapse; text-align: left;">
+<table style="width: 100%; border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black; text-align: center; font-weight: bold;">Category</th>
     <th style="border: 1px solid black; text-align: center; font-weight: bold;">Content</th>
