@@ -29,7 +29,9 @@ title: "LI Yifeng"
 <div style="display: flex; gap: 2rem;">
   <div style="width: 25%;"></div>
   <div style="width: 50%; text-align: center;">
-    Hello, World!
+    I am from China and currently pursuing a Bachelor's degree in Computer Science at the University of Trento, Italy. I am also conducting research and development internships at MoDiS and CHuB, Fondazione Bruno Kessler (FBK).
+
+    My primary research interests lie in complex systems, network science, and computational social science. I am also interested in econometrics, area studies, and social observation.
   </div>
   <div style="width: 25%;"></div>
 </div>

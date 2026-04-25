@@ -10,7 +10,7 @@ title: "LI Yifeng"
 
 *Since Jan 1 2026*
 
-## 2026 
+## 2026
 
 ### Apr
 
