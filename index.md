@@ -137,6 +137,8 @@ title: "LI Yifeng"
 
 ## Fav
 
+*Ordered by first letter*
+
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black; text-align: center; font-weight: bold;">Category</th>
