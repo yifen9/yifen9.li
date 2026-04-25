@@ -190,8 +190,8 @@ title: "LI Yifeng"
     <td rowspan="3" style="border: 1px solid black;">Activities</td>
     <td style="border: 1px solid black;">Indoor</td>
     <td style="border: 1px solid black;">Board Games</td>
+    <td style="border: 1px solid black;">Music</td>
     <td style="border: 1px solid black;">Video Games</td>
-    <td style="border: 1px solid black;">Learning / Music</td>
   </tr>
   <tr>
     <td style="border: 1px solid black;">Outdoor</td>
