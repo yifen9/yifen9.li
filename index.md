@@ -26,14 +26,14 @@ title: "LI Yifeng"
 
 ## Bio
 
-<div style="display: flex; gap: 2rem;">
-  <div style="width: 25%;"></div>
-  <div style="width: 50%; text-align: center;">
+<div style="display: flex; gap: 2rem; text-align: center;">
+  <div style="width: 12.5%;"></div>
+  <div style="width: 75%;">
     I am from China and currently pursuing a Bachelor's degree in Computer Science at the University of Trento, Italy. I am also conducting research and development internships at MoDiS and CHuB, Fondazione Bruno Kessler (FBK).
 
     My primary research interests lie in complex systems, network science, and computational social science. I am also interested in econometrics, area studies, and social dynamics.
   </div>
-  <div style="width: 25%;"></div>
+  <div style="width: 12.5%;"></div>
 </div>
 
 ## Access
