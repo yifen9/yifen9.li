@@ -66,7 +66,7 @@ title: "LI Yifeng"
     <td style="border: 1px solid black;">—</td>
     <td style="border: 1px solid black;">Tokyo</td>
     <td style="border: 1px solid black; text-align: center;">
-      <img src="./assets/images/jp.png" alt="Japan" height="16" style="border: 1px solid black; display: inline-block; vertical-align: middle;">
+      <img src="https://assets.yifen9.li/shared/img/jp.png" alt="Japan" height="16" style="border: 1px solid black; display: inline-block; vertical-align: middle;">
     </td>
   </tr>
 
@@ -75,7 +75,7 @@ title: "LI Yifeng"
     <td style="border: 1px solid black;">Spring 2027</td>
     <td style="border: 1px solid black;">Trento</td>
     <td style="border: 1px solid black; text-align: center;">
-      <img src="./assets/images/it.png" alt="Italy" height="16" style="border: 1px solid black; display: inline-block; vertical-align: middle;">
+      <img src="https://assets.yifen9.li/shared/img/it.png" alt="Italy" height="16" style="border: 1px solid black; display: inline-block; vertical-align: middle;">
     </td>
   </tr>
 
@@ -84,7 +84,7 @@ title: "LI Yifeng"
     <td style="border: 1px solid black;">Dec 2026</td>
     <td style="border: 1px solid black;">Ghent</td>
     <td style="border: 1px solid black; text-align: center;">
-      <img src="./assets/images/be.png" alt="Belgium" height="16" style="border: 1px solid black; display: inline-block; vertical-align: middle;">
+      <img src="https://assets.yifen9.li/shared/img/be.png" alt="Belgium" height="16" style="border: 1px solid black; display: inline-block; vertical-align: middle;">
     </td>
   </tr>
 
@@ -93,7 +93,7 @@ title: "LI Yifeng"
     <td style="border: 1px solid black;">Sep 2026</td>
     <td style="border: 1px solid black;">Trento</td>
     <td style="border: 1px solid black; text-align: center;">
-      <img src="./assets/images/it.png" alt="Italy" height="16" style="border: 1px solid black; display: inline-block; vertical-align: middle;">
+      <img src="https://assets.yifen9.li/shared/img/it.png" alt="Italy" height="16" style="border: 1px solid black; display: inline-block; vertical-align: middle;">
     </td>
   </tr>
 
@@ -102,7 +102,7 @@ title: "LI Yifeng"
     <td style="border: 1px solid black;">Oct 2024</td>
     <td style="border: 1px solid black;">Shenzhen</td>
     <td style="border: 1px solid black; text-align: center;">
-      <img src="./assets/images/cn.png" alt="China" height="16" style="border: 1px solid black; display: inline-block; vertical-align: middle;">
+      <img src="https://assets.yifen9.li/shared/img/cn.png" alt="China" height="16" style="border: 1px solid black; display: inline-block; vertical-align: middle;">
     </td>
   </tr>
 </table>
