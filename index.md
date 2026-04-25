@@ -137,7 +137,7 @@ title: "LI Yifeng"
 
 ## Fav
 
-*Ordered by first letter*
+*Ordered by alphabet*
 
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
