@@ -26,10 +26,18 @@ title: "LI Yifeng"
 
 ## Bio
 
-<div style="width: 80%; margin: 0 auto; text-align: center;">
-  <details open>
-    <summary><strong>First Person</strong></summary>
+<div style="width: 80%; margin: 0 auto; border: 1px solid black; padding: 1rem; text-align: center;">
+  <div style="margin-bottom: 1rem;">
+    <button onclick="document.getElementById('bio-first').style.display='block'; document.getElementById('bio-third').style.display='none';">
+      First Person
+    </button>
 
+    <button onclick="document.getElementById('bio-first').style.display='none'; document.getElementById('bio-third').style.display='block';">
+      Third Person
+    </button>
+  </div>
+
+  <div id="bio-first">
     <p>
       I am from China and currently pursuing a Bachelor's degree in Computer Science at the University of Trento, Italy.
       I am also conducting research and development internships at MoDiS and CHuB, Fondazione Bruno Kessler (FBK).
@@ -39,11 +47,9 @@ title: "LI Yifeng"
       My primary research interests lie in complex systems, network science, and computational social science.
       I am also interested in econometrics, area studies, and social dynamics.
     </p>
-  </details>
+  </div>
 
-  <details>
-    <summary><strong>Third Person</strong></summary>
-
+  <div id="bio-third" style="display: none;">
     <p>
       LI Yifeng is from China and is currently pursuing a Bachelor's degree in Computer Science at the University of Trento, Italy.
       He is also conducting research and development internships at MoDiS and CHuB, Fondazione Bruno Kessler (FBK).
@@ -53,7 +59,7 @@ title: "LI Yifeng"
       His primary research interests lie in complex systems, network science, and computational social science.
       He is also interested in econometrics, area studies, and social dynamics.
     </p>
-  </details>
+  </div>
 </div>
 
 ## Access
