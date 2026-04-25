@@ -37,7 +37,7 @@ title: "LI Yifeng"
     </button>
   </div>
 
-  <div id="bio-first">
+  <div id="bio-first" style="margin-bottom: 1rem;">
     <p>
       I am from China and currently pursuing a Bachelor's degree in Computer Science at the University of Trento, Italy.
       I am also conducting research and development internships at MoDiS and CHuB, Fondazione Bruno Kessler (FBK).
@@ -49,7 +49,7 @@ title: "LI Yifeng"
     </p>
   </div>
 
-  <div id="bio-third" style="display: none;">
+  <div id="bio-third" style="margin-bottom: 1rem; display: none;">
     <p>
       LI Yifeng is from China and is currently pursuing a Bachelor's degree in Computer Science at the University of Trento, Italy.
       He is also conducting research and development internships at MoDiS and CHuB, Fondazione Bruno Kessler (FBK).
