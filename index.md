@@ -57,43 +57,43 @@ title: "LI Yifeng"
   <tr>
     <th style="border: 1px solid black; text-align: center; font-weight: bold;">From</th>
     <th style="border: 1px solid black; text-align: center; font-weight: bold;">To</th>
-    <th style="border: 1px solid black; text-align: center; font-weight: bold;">Country</th>
     <th style="border: 1px solid black; text-align: center; font-weight: bold;">City</th>
+    <th style="border: 1px solid black; text-align: center; font-weight: bold;">Country</th>
   </tr>
 
   <tr>
     <td style="border: 1px solid black;">Spring 2027</td>
     <td style="border: 1px solid black;">—</td>
-    <td style="border: 1px solid black;"><a href="http://en.wikipedia.org/wiki/Japan"><img src="./img/128px-Flag_of_Japan.png" width="25" alt="Japan" title="Japan" border="1" align="top"></td>
     <td style="border: 1px solid black;">Tokyo</td>
+    <td style="border: 1px solid black;"><img src="./assets/image/jp.png" height="16" border="1px solid black"></td>
   </tr>
 
   <tr>
     <td style="border: 1px solid black;">Dec 2026</td>
     <td style="border: 1px solid black;">Spring 2027</td>
-    <td style="border: 1px solid black;">Italy</td>
     <td style="border: 1px solid black;">Trento</td>
+    <td style="border: 1px solid black;"><img src="./assets/image/it.png" height="16" border="1px solid black"></td>
   </tr>
 
   <tr>
     <td style="border: 1px solid black;">Sep 2026</td>
     <td style="border: 1px solid black;">Dec 2026</td>
-    <td style="border: 1px solid black;">Belgium</td>
     <td style="border: 1px solid black;">Ghent</td>
+    <td style="border: 1px solid black;"><img src="./assets/image/be.png" height="16" border="1px solid black"></td>
   </tr>
 
   <tr>
     <td style="border: 1px solid black;">Oct 2024</td>
     <td style="border: 1px solid black;">Sep 2026</td>
-    <td style="border: 1px solid black;">Italy</td>
     <td style="border: 1px solid black;">Trento</td>
+    <td style="border: 1px solid black;"><img src="./assets/image/it.png" height="16" border="1px solid black"></td>
   </tr>
 
   <tr>
     <td style="border: 1px solid black;">Nov 2005</td>
     <td style="border: 1px solid black;">Oct 2024</td>
-    <td style="border: 1px solid black;">China</td>
     <td style="border: 1px solid black;">Shenzhen</td>
+    <td style="border: 1px solid black;"><img src="./assets/image/cn.png" height="16" border="1px solid black"></td>
   </tr>
 </table>
 
