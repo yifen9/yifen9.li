@@ -209,6 +209,16 @@ title: "LI Yifeng"
   </tr>
 </table>
 
+## Verse
+
+<div style="box-sizing: border-box; width: 100%; margin: 0 auto; border: 1px solid black; padding: 1rem; text-align: center;">
+  <p style="margin: 0.3rem 0;">今日も陽が昇り、また沈む。</p>
+  <p style="margin: 0.3rem 0;">朝咲く花が、首から落ちる。</p>
+  <p style="margin: 0.3rem 0;">今日も陽が沈み、また昇る。</p>
+  <p style="margin: 0.3rem 0;">辺り一面、花が咲く。</p>
+  <p style="margin: 0.3rem 0;">けれど昨日とは別の花。</p>
+</div>
+
 ## Meta
 
 <table style="width: 100%; border-collapse: collapse;">
