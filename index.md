@@ -39,7 +39,7 @@ title: "LI Yifeng"
 
   <div id="bio-first">
     <p>
-      I am from China and currently pursuing a Bachelor's degree in Computer Science at the University of Trento, Italy.
+      I am from China and currently pursuing a Bachelor's Degree in Computer Science (L-31) at the University of Trento, Italy.
       I am also conducting research and development internships at CHuB and MoDiS, Fondazione Bruno Kessler (FBK).
     </p>
 
@@ -51,7 +51,7 @@ title: "LI Yifeng"
 
   <div id="bio-third" style="display: none;">
     <p>
-      LI Yifeng is from China and is currently pursuing a Bachelor's degree in Computer Science at the University of Trento, Italy.
+      LI Yifeng is from China and is currently pursuing a Bachelor's Degree in Computer Science (L-31) at the University of Trento, Italy.
       He is also conducting research and development internships at CHuB and MoDiS, Fondazione Bruno Kessler (FBK).
     </p>
 
