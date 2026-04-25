@@ -217,6 +217,10 @@ title: "LI Yifeng"
   <p style="margin: 0.3rem 0;">今日も陽が沈み、また昇る。</p>
   <p style="margin: 0.3rem 0;">辺り一面、花が咲く。</p>
   <p style="margin: 0.3rem 0;">けれど昨日とは別の花。</p>
+
+  <p style="margin: 1rem 0 0 0;">
+    <em>From Yuki Urushibara's <strong>Mushishi</strong>, “The Swarm That Drinks Dew” / 「露を吸う群」.</em>
+  </p>
 </div>
 
 ## Meta
