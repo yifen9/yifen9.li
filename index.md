@@ -26,14 +26,34 @@ title: "LI Yifeng"
 
 ## Bio
 
-<div style="display: flex; gap: 2rem; text-align: center;">
-  <div style="width: 12.5%;"></div>
-  <div style="width: 75%;">
-    I am from China and currently pursuing a Bachelor's degree in Computer Science at the University of Trento, Italy. I am also conducting research and development internships at MoDiS and CHuB, Fondazione Bruno Kessler (FBK).
+<div style="width: 80%; margin: 0 auto; text-align: center;">
+  <details open>
+    <summary><strong>First Person</strong></summary>
 
-    My primary research interests lie in complex systems, network science, and computational social science. I am also interested in econometrics, area studies, and social dynamics.
-  </div>
-  <div style="width: 12.5%;"></div>
+    <p>
+      I am from China and currently pursuing a Bachelor's degree in Computer Science at the University of Trento, Italy.
+      I am also conducting research and development internships at MoDiS and CHuB, Fondazione Bruno Kessler (FBK).
+    </p>
+
+    <p>
+      My primary research interests lie in complex systems, network science, and computational social science.
+      I am also interested in econometrics, area studies, and social dynamics.
+    </p>
+  </details>
+
+  <details>
+    <summary><strong>Third Person</strong></summary>
+
+    <p>
+      LI Yifeng is from China and is currently pursuing a Bachelor's degree in Computer Science at the University of Trento, Italy.
+      He is also conducting research and development internships at MoDiS and CHuB, Fondazione Bruno Kessler (FBK).
+    </p>
+
+    <p>
+      His primary research interests lie in complex systems, network science, and computational social science.
+      He is also interested in econometrics, area studies, and social dynamics.
+    </p>
+  </details>
 </div>
 
 ## Access
