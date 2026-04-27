@@ -28,7 +28,7 @@ title: "LI Yifeng"
 ### Mar
 
 - 12
-  - My submission: *When Can We Recover Granger/Transfer-Entropy Networks in High Dimensions? Information-Theoretic Limits and Achievable Regimes for VAR Graph Recovery* is now posted on **SSRN**
+  - My submission: *When Can We Recover Granger/Transfer-Entropy Networks in High Dimensions? Information-Theoretic Limits and Achievable Regimes for VAR Graph Recovery* is now posted on **Social Science Research Network (SSRN)**
 - 11
   - I received an offer of conditional admission to the MSc Programme in Computer Science starting on 1 September 2026, from the **University of Copenhagen**, Denmark
 - 04
