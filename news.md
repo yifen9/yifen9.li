@@ -15,7 +15,7 @@ title: "LI Yifeng"
 ### Apr
 
 - 27
-  - My internship at **Fondazione Bruno Kessler (FBK)**, Italy got extended from May 6 2026 to Sep 1 2026, with work towards Social Data Analysis and Modelling, supervised under Dr. Simone Bassanelli and Prof. Luca Turchet, collaborated with the FBK Motivational Digital Systems group (MoDiS) and the FBK Complex Human Behaviour Lab (CHuB)
+  - My internship at **Fondazione Bruno Kessler (FBK)**, Italy got extended from May 6 2026 to Sep 1 2026, with work towards *Social Data Analysis and Modelling*, supervised under Dr. Simone Bassanelli and Prof. Luca Turchet, collaborated with the FBK Motivational Digital Systems group (MoDiS) and the FBK Complex Human Behaviour Lab (CHuB)
 - 21
   - I received an informal offer to a research visit at **the Complex Systems Institute of Ghent University**, Belgium, starting in late 2026, from Prof. Luis Enrique Correa da Rocha
 - 20
