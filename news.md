@@ -37,7 +37,7 @@ title: "LI Yifeng"
 ### Feb
 
 - 16
-  - My submission 207 entitled: *Rising Dispersion in Country-Level Academic Mobility Rankings from ORCID-Derived Flow Networks* has been accepted for a Poster at **International School & Conference on Network Science (NetSci) 2026**, Boston, USA
+  - My submission 207 entitled: *Rising Dispersion in Country-Level Academic Mobility Rankings from ORCID-Derived Flow Networks* has been accepted for a Poster at **the International School & Conference on Network Science (NetSci) 2026**, Boston, USA
 
 ### Jan
 
