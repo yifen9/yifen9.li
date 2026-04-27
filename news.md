@@ -17,9 +17,9 @@ title: "LI Yifeng"
 - 27
   - My internship at **Fondazione Bruno Kessler (FBK)**, Italy got extended from May 6 2026 to Sep 1 2026, with work towards *Social Data Analysis and Modelling*, supervised under Dr. Simone Bassanelli and Prof. Luca Turchet, collaborated with the FBK Motivational Digital Systems group (MoDiS) and the FBK Complex Human Behaviour Lab (CHuB)
 - 21
-  - I received an informal offer to a research visit at **the Complex Systems Institute of Ghent University**, Belgium, starting in late 2026, from Prof. Luis Enrique Correa da Rocha
+  - I received an informal offer to a research visit at the **Complex Systems Institute of Ghent University**, Belgium, starting in late 2026, from Prof. Luis Enrique Correa da Rocha
 - 20
-  - I received an informal offer to the Five-year Doctoral Program at **the Mizuno Lab of the National Institute of Informatics (NII)**, Japan, starting in 2027, supervised under Prof. Takayuki Mizuno
+  - I received an informal offer to the Five-year Doctoral Program at the **Mizuno Lab of the National Institute of Informatics (NII)**, Japan, starting in 2027, supervised under Prof. Takayuki Mizuno
 - 13
   - I received a conditional informal offer to the Five-year Doctoral Program at the **Mizuno Lab of the National Institute of Informatics (NII)**, Japan, starting in 2027, supervised under Prof. Takayuki Mizuno
 - 09
@@ -37,7 +37,7 @@ title: "LI Yifeng"
 ### Feb
 
 - 16
-  - My submission 207 entitled: *Rising Dispersion in Country-Level Academic Mobility Rankings from ORCID-Derived Flow Networks* has been accepted for a Poster at **the International School & Conference on Network Science (NetSci) 2026**, Boston, USA
+  - My submission 207 entitled: *Rising Dispersion in Country-Level Academic Mobility Rankings from ORCID-Derived Flow Networks* has been accepted for a Poster at the **International School & Conference on Network Science (NetSci) 2026**, Boston, USA
 
 ### Jan
 
