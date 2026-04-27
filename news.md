@@ -44,4 +44,4 @@ title: "LI Yifeng"
 - 30
   - I passed the **Japanese-Language Proficiency Test (JLPT) N3** exam
 - 06
-  - My internship started at **Fondazione Bruno Kessler (FBK) GamiDOC**, Italy, supervised under Dr. Simone Bassanelli and Prof. Luca Turchet
+  - My internship started at **Fondazione Bruno Kessler (FBK) GamiDOC team**, Italy, supervised under Dr. Simone Bassanelli and Prof. Luca Turchet
