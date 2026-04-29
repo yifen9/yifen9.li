@@ -15,7 +15,7 @@ title: "LI Yifeng"
 - Rising Dispersion in Country-Level Academic Mobility Rankings from ORCID-Derived Flow Networks, Feb 2026
   - Y. Li. Accepted for Poster Presentation at the Network Science Society Conference (NetSci) 2026, Boston, USA ([Confirmation Letter](https://assets.yifen9.li/projects/osr/papers/netsci2026/orc207.pdf) / [Preprint](https://doi.org/10.5281/zenodo.18068503))
 
-## Non Peer Reviewed
+## Non-peer Reviewed
 
 - Recovering Granger/Transfer-Entropy Networks in High-Dimensional VARs: Limits and Achievability, March 2026
   - Y. Li, H. Yang. Accepted for Oral Presentation at the International Conference on Econometrics and Statistics (EcoSta) 2026, Kyoto, Japan ([Acceptance Letter](https://assets.yifen9.li/projects/te-net/papers/ecosta2026/acc1287.pdf) / [Preprint](https://dx.doi.org/10.2139/ssrn.6339298))
