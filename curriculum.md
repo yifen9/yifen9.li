@@ -8,6 +8,8 @@ title: "LI Yifeng"
 
 # Curriculum
 
+*PDF format: <https://assets.yifen9.li/shared/cv.pdf>*
+
 ## Education
 
 - Bachelor’s Degree in Computer Science (L-31), University of Trento, Sep 2024 - Current
