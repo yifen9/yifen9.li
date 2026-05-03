@@ -14,7 +14,7 @@ title: "LI Yifeng"
   </div>
 
   <div style="width: 50%;">
-    <ul>
+    <ul style="margin-top: 0;">
       <li>LI Yifeng (李 艺峰)</li>
       <li>November 9, 2005</li>
       <li>Trento (IT)</li>
