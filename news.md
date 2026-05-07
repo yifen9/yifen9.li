@@ -15,7 +15,7 @@ title: "LI Yifeng"
 ### May
 
 - 07
-  - I received a formal invitation to a research internship at the **Complex Systems Institute of Ghent University**, Belgium, from Sep 19 to Dec 19, from Prof. Luis Enrique Correa da Rocha
+  - I received a formal offer to a research internship at the **Complex Systems Institute of Ghent University**, Belgium, from Sep 19 to Dec 19, from Prof. Luis Enrique Correa da Rocha
 
 ### Apr
 
