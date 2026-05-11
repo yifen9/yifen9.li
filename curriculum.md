@@ -20,9 +20,6 @@ title: "LI Yifeng"
   - *Social Data Analysis and Modeling with FBK CHuB*
   - *GamiDOC: A Tool for Designing and Evaluating Gamified Solutions*
   - Supervised under Simone Bassanelli and Luca Turchet
-- Research Intern, University of Trento, Oct 2025 - Current (Paused)
-  - *Influence maximization over dynamic social networks*
-  - Supervised under Elia Cunegatti and Giovanni Iacca
 
 ## Awards
 
