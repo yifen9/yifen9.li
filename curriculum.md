@@ -27,3 +27,4 @@ title: "LI Yifeng"
 ## Awards
 
 - [UniTrento Scholarships](https://web.archive.org/web/20250324133641/https://www.unitn.it/en/study/fees-scholarships-accommodation/scholarships-and-awards/scholarships-international-students), 2024/2025 - Current
+- [Scholarships for long-term Erasmus+ programme](https://www.unitn.it/en/international/going-abroad/study/erasmus-long-term-study), 2025/2026
