@@ -16,8 +16,11 @@ title: "LI Yifeng"
 
 ## Experience
 
-- Research / Backend Development Intern, Fondazione Bruno Kessler, Jan 2026 - Current
-  - *Social Data Analysis and Modeling with FBK CHuB*
+- Research Intern, Ghent University, Sep - Dec 2026
+  - *With UGent Complex Systems Institute*
+  - Supervised under Luis E C Rocha and Michele Tizzoni
+- Research / Backend Development Intern, Fondazione Bruno Kessler, Jan - Sep 2026
+  - *Social Data Analysis and Modeling with FBK CHuB and FBK MoDiS*
   - *GamiDOC: A Tool for Designing and Evaluating Gamified Solutions*
   - Supervised under Simone Bassanelli and Luca Turchet
 
