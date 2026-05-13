@@ -144,9 +144,9 @@ title: "LI Yifeng"
   <tr>
     <th style="border: 1px solid black; text-align: center; font-weight: bold;">Category</th>
     <th style="border: 1px solid black; text-align: center; font-weight: bold;">Type</th>
-    <th style="border: 1px solid black; text-align: center; font-weight: bold;">#1</th>
-    <th style="border: 1px solid black; text-align: center; font-weight: bold;">#2</th>
-    <th style="border: 1px solid black; text-align: center; font-weight: bold;">#3</th>
+    <th style="border: 1px solid black; text-align: center; font-weight: bold;">#</th>
+    <th style="border: 1px solid black; text-align: center; font-weight: bold;">#</th>
+    <th style="border: 1px solid black; text-align: center; font-weight: bold;">#</th>
   </tr>
 
   <tr>
