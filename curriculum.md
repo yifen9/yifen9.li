@@ -16,7 +16,7 @@ title: "LI Yifeng"
 
 ## Experience
 
-- Research Intern, Ghent University, Sep - Dec 2026
+- Research Visit, Ghent University, Sep - Dec 2026
   - *With UGent Complex Systems Institute*
   - Supervised under Luis E C Rocha and Michele Tizzoni
 - Research / Backend Development Intern, Fondazione Bruno Kessler, Jan - Sep 2026
