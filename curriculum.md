@@ -18,7 +18,7 @@ title: "LI Yifeng"
 
 - Research Visit, Ghent University, Sep - Dec 2026
   - *With UGent Complex Systems Institute*
-  - Supervised under Luis E C Rocha and Michele Tizzoni
+  - Supervised under Luis E C Rocha
 - Research / Backend Development Intern, Fondazione Bruno Kessler, Jan - Sep 2026
   - *Social Data Analysis and Modeling with FBK CHuB and FBK MoDiS*
   - *GamiDOC: A Tool for Designing and Evaluating Gamified Solutions*
