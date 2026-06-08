@@ -24,7 +24,7 @@ title: "LI Yifeng"
 - When Can Directed Social Flows Be Summarized by a Scalar Potential?, Jun 2026
   - Y. Li. Submitted as Extended Abstract to the Nordic Conference on Computational Social Science (CS2Nordics) 2026, Copenhagen, Denmark.
 - Access to a Concentrated Academic Core: Non-Core Intermediaries and Budget-Dependent Disruption in Global Mobility Networks, Current
-  - Y. Li. Submitted to the Nordic Conference on Computational Social Science (CS2Nordics) 2026, Copenhagen, Denmark. ([Preprint](https://doi.org/10.5281/zenodo.19653916))
+  - Y. Li. Submitted as Extended Abstract to the Nordic Conference on Computational Social Science (CS2Nordics) 2026, Copenhagen, Denmark. ([Preprint](https://doi.org/10.5281/zenodo.19653916))
 
 ## Other Presentations and Working Papers
 
