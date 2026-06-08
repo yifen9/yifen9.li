@@ -9,7 +9,7 @@ title: "LI Yifeng"
 # Projects
 
 - GamiDOC, Jan 2026 - Current ([GitHub](https://github.com/gamidoc))
-- Open Scholar Ranking, Apr 2024 - Current ([GitHub (Dataset)](https://github.com/yifen9/orcid-springrank) / [GitHub (Examples)](https://github.com/yifen9/osr-examples))
+- Open Scholar Ranking, Apr 2024 - Current ([Website](https://osr.clarelab.moe))
 - Reddit Archive, Sep - Nov 2025 ([GitHub](https://github.com/open-run-org/archive) / [Website](https://archive.open-run.org))
 - GitHub Auto Inviter, Oct 2025 ([GitHub](https://github.com/unitn-ap-2025/api) / [OpenAPI](https://unitn-ap-2025.github.io/api))
 
