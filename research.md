@@ -22,7 +22,7 @@ title: "LI Yifeng"
 - RecurFlow: Testing Gradient Structure in Unit-Conserved Directed Flow Networks, Current
   - Y. Li. Submitted as Extended Abstract to Complex Networks 2026.
 - When Can Directed Social Flows Be Summarized by a Scalar Potential?, Current
-  - Y. Li. Submitted as Extended Abstract to the Nordic Conference on Computational Social Science (CS2Nordics) 2026, Copenhagen, Denmark.
+  - Y. Li. Submitted as Extended Abstract to the Nordic Conference on Computational Social Science (CS2Nordics) 2026, Copenhagen, Denmark. ([Preprint](https://doi.org/10.5281/zenodo.20602630))
 - Access to a Concentrated Academic Core: Non-Core Intermediaries and Budget-Dependent Disruption in Global Mobility Networks, Current
   - Y. Li. Submitted as Extended Abstract to the Nordic Conference on Computational Social Science (CS2Nordics) 2026, Copenhagen, Denmark. ([Preprint](https://doi.org/10.5281/zenodo.19653916))
 
