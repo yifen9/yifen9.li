@@ -10,7 +10,7 @@ title: "LI Yifeng"
 
 *More on: <https://research.yifen9.li>*
 
-## Reviewed Presentations
+## Peer Reviewed
 
 ### Accepted
 
