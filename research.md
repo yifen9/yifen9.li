@@ -20,7 +20,7 @@ title: "LI Yifeng"
 ### Under Review
 
 - RecurFlow: Auditing Scalar Potential in Unit-Conserved Directed Flow Systems, Current
-  - Y. Li.
+  - Y. Li. Under Review
 
 ### Submitted
 
