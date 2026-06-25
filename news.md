@@ -15,7 +15,7 @@ title: "LI Yifeng"
 ### Jun
 
 - 01
-  - My Website Open Scholar Ranking is available online, at https://osr.clarelab.moe
+  - My Website **Open Scholar Ranking** is available online, at https://osr.clarelab.moe
 
 ### May
 
