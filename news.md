@@ -12,10 +12,15 @@ title: "LI Yifeng"
 
 ## 2026
 
+### Jun
+
+- 01
+  - My Website Open Scholar Ranking is available online, at https://osr.clarelab.moe
+
 ### May
 
 - 07
-  - I received a formal offer to a research internship at the **Complex Systems Institute of Ghent University**, Belgium, from Sep 19 to Dec 19, from Prof. Luis Enrique Correa da Rocha
+  - I received a formal offer to a research internship at the **Complex Systems Institute of Ghent University**, Belgium, from Sep 19 2026 to Dec 19 2026, from Prof. Luis Enrique Correa da Rocha
 
 ### Apr
 
