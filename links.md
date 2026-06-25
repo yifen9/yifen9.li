@@ -38,10 +38,3 @@ title: "LI Yifeng"
 
 - [GitHub](https://github.com/yifen9)
 - [LinkedIn](https://www.linkedin.com/in/yifen9li)
-
-## Websites
-
-- [Blog](https://blog.yifen9.li)
-- [Research](https://research.yifen9.li)
-- [UniTrento L-31 Boardgame Club](https://bg.unitn.yifen9.li)
-- [UniTrento L-31 Lab](https://l31.unitn.yifen9.li)

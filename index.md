@@ -14,13 +14,11 @@ title: "LI Yifeng"
   </div>
 
   <div style="width: 50%;">
-    <ul style="margin-top: 0;">
+    <ul style="margin-top: 20;">
       <li>LI Yifeng (李 艺峰)</li>
       <li>November 9, 2005</li>
       <li>Trento (IT)</li>
       <li><a href="https://assets.yifen9.li/shared/cv.pdf">CV</a></li>
-      <li><a href="https://blog.yifen9.li">Blog</a></li>
-      <li><a href="https://research.yifen9.li">Research</a></li>
     </ul>
   </div>
 </div>
