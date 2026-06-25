@@ -12,16 +12,6 @@ title: "LI Yifeng"
 
 ## Peer Reviewed
 
-### Accepted
-
-- Rising Dispersion in Country-Level Academic Mobility Rankings from ORCID-Derived Flow Networks, Feb 2026
-  - Y. Li. Accepted for Poster Presentation at the Network Science Society Conference (NetSci) 2026, Boston, USA. ([Confirmation Letter](https://assets.yifen9.li/projects/osr/papers/netsci2026/orc207.pdf) / [Preprint](https://doi.org/10.5281/zenodo.18068503))
-
-### Under Review
-
-- RecurFlow: Auditing Scalar Potential in Unit-Conserved Directed Flow Systems, Current
-  - Y. Li. Under Review
-
 ### Submitted
 
 - RecurFlow: Testing Gradient Structure in Unit-Conserved Directed Flow Networks, Current
@@ -30,6 +20,16 @@ title: "LI Yifeng"
   - Y. Li. Submitted as Extended Abstract to the Nordic Conference on Computational Social Science (CS2Nordics) 2026, Copenhagen, Denmark. ([Preprint](https://doi.org/10.5281/zenodo.20602630))
 - Access to a Concentrated Academic Core: Non-Core Intermediaries and Budget-Dependent Disruption in Global Mobility Networks, Current
   - Y. Li. Submitted as Extended Abstract to the Nordic Conference on Computational Social Science (CS2Nordics) 2026, Copenhagen, Denmark. ([Preprint](https://doi.org/10.5281/zenodo.19653916))
+
+### Under Review
+
+- RecurFlow: Auditing Scalar Potential in Unit-Conserved Directed Flow Systems, Current
+  - Y. Li. Under Review
+
+### Accepted
+
+- Rising Dispersion in Country-Level Academic Mobility Rankings from ORCID-Derived Flow Networks, Feb 2026
+  - Y. Li. Accepted for Poster Presentation at the Network Science Society Conference (NetSci) 2026, Boston, USA. ([Confirmation Letter](https://assets.yifen9.li/projects/osr/papers/netsci2026/orc207.pdf) / [Preprint](https://doi.org/10.5281/zenodo.18068503))
 
 ## Other Presentations and Working Papers
 
