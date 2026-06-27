@@ -17,7 +17,7 @@ title: "LI Yifeng"
 ## Experience
 
 - Research Intern, Ghent University, Sep - Dec 2026
-  - *With UGent Complex Systems Institute*
+  - *UGent Complex Systems Institute*
   - Supervised under Prof. Luis E C Rocha and Prof. Michele Tizzoni
 - Research / Backend Development Intern, Fondazione Bruno Kessler, Jan - Sep 2026
   - *Social Data Analysis and Modeling with CHuB and MoDiS*

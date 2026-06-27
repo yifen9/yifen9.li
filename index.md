@@ -18,7 +18,7 @@ title: "LI Yifeng"
       <li>LI Yifeng (李 艺峰)</li>
       <li>November 9, 2005</li>
       <li>Trento (IT)</li>
-      <li><a href="https://assets.yifen9.li/shared/cv.pdf">CV</a></li>
+      <li><a href="https://assets.yifen9.li/shared/cv.pdf">Curriculum Vitae</a></li>
     </ul>
   </div>
 </div>
