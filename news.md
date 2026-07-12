@@ -18,7 +18,7 @@ title: "LI Yifeng"
   - The decision for my paper #11, *"When Can Directed Social Flows Be Summarized by a Scalar Potential?"*, is: decision: Accept (Poster), from the **Nordic Conference on Computational Social Science (CS2Nordics) 2026**, Copenhagen, Denmark
   - The decision for my paper #2, *"Access to a Concentrated Academic Core: Non-Core Intermediaries and Budget-Dependent Disruption in Global Mobility Networks"*, is: decision: Accept (Poster), from the **Nordic Conference on Computational Social Science (CS2Nordics) 2026**, Copenhagen, Denmark
 - 06
-  - I am officially accepted as an exchange student at **Ghent University**, Belgium, from Sep 15 2026 until Dec 15 2026, at the Faculty of Economics and Business Administration *(Faculteit Economie en Bedrijfskunde)*
+  - I am officially accepted as an exchange student at **Ghent University**, Belgium, from 15/09/2026 until 15/12/2026, at the Faculty of Economics and Business Administration *(Faculteit Economie en Bedrijfskunde)*
 
 ### Jun
 
