@@ -17,11 +17,6 @@ title: "LI Yifeng"
 - RecurFlow: Testing Gradient Structure in Unit-Conserved Directed Flow Networks, Current
   - Y. Li. Submitted as Extended Abstract to International Conference on Complex Networks and their Applications (CNA) 2026, Granada, Spain. ([Preprint](https://doi.org/10.5281/zenodo.20693695))
 
-### Under Review
-
-- RecurFlow: Auditing Scalar Potential in Unit-Conserved Directed Flow Systems, Current
-  - Y. Li. Under Review
-
 ### Accepted
 
 - Access to a Concentrated Academic Core: Non-Core Intermediaries and Budget-Dependent Disruption in Global Mobility Networks, Current
