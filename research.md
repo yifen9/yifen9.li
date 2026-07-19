@@ -24,8 +24,6 @@ title: "LI Yifeng"
 
 ### Accepted
 
-- When Can Directed Social Flows Be Summarized by a Scalar Potential?, Current
-  - Y. Li. Accepted for Poster Presentation at the Nordic Conference on Computational Social Science (CS2Nordics) 2026, Copenhagen, Denmark. ([Preprint](https://doi.org/10.5281/zenodo.20602630))
 - Access to a Concentrated Academic Core: Non-Core Intermediaries and Budget-Dependent Disruption in Global Mobility Networks, Current
   - Y. Li. Accepted for Poster Presentation at the Nordic Conference on Computational Social Science (CS2Nordics) 2026, Copenhagen, Denmark. ([Preprint](https://doi.org/10.5281/zenodo.19653916))
 - Rising Dispersion in Country-Level Academic Mobility Rankings from ORCID-Derived Flow Networks, Feb 2026
