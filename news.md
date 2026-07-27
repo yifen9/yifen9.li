@@ -24,14 +24,14 @@ title: "LI Yifeng"
 - 06
   - I am officially accepted as an exchange student at **Ghent University**, Belgium, from 15/09/2026 until 15/12/2026, at the Faculty of Economics and Business Administration *(Faculteit Economie en Bedrijfskunde)*
 - 01
-  - My public-facing research presence at RedNote hits **10,000** audiences, ID: clareLab
+  - My public-facing research presence at RedNote hits **10,000 audiences**, ID: clareLab
 
 ### Jun
 
 - 14
-  - My public-facing research presence at RedNote hits **5,000** audiences, ID: clareLab
+  - My public-facing research presence at RedNote hits **5,000 audiences**, ID: clareLab
 - 10
-  - My public-facing research presence at RedNote hits **1,000** audiences, ID: clareLab
+  - My public-facing research presence at RedNote hits **1,000 audiences**, ID: clareLab
 - 01
   - My Website **Open Scholar Ranking** is available online, at https://osr.clarelab.moe
 
