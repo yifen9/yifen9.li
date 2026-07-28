@@ -9,6 +9,7 @@ title: "LI Yifeng"
 # Projects
 
 - GamiDOC, Jan 2026 - Current ([GitHub](https://github.com/gamidoc))
+- A Moving Map of Science, Jul 2026 ([GitHub](https://github.com/clarelab/scholar-mm) / [Website](https://clarelab.github.io/scholar-mm))
 - Open Scholar Ranking, Apr 2024 - Current ([Website](https://osr.clarelab.moe))
 - Reddit Archive, Sep - Nov 2025 ([GitHub](https://github.com/open-run-org/archive) / [Website](https://archive.open-run.org))
 

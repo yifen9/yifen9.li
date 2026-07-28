@@ -39,7 +39,7 @@ title: "LI Yifeng"
   <div id="bio-first">
     <p>
       I am from China and currently pursuing a Bachelor's Degree in Computer Science (L-31) at the University of Trento, Italy.
-      I am also conducting research and development internships at CHuB and MoDiS, Fondazione Bruno Kessler (FBK).
+      I am also conducting a research and development internship at Fondazione Bruno Kessler (FBK), with an upcoming research internship at the UGent Complex Systems Institute, and serve as a Research Consultant at EduDataLabs.
     </p>
 
     <p>
@@ -50,7 +50,7 @@ title: "LI Yifeng"
   <div id="bio-third" style="display: none;">
     <p>
       LI Yifeng is from China and is currently pursuing a Bachelor's Degree in Computer Science (L-31) at the University of Trento, Italy.
-      He is also conducting research and development internships at CHuB and MoDiS, Fondazione Bruno Kessler (FBK).
+      He is also conducting a research and development internship at Fondazione Bruno Kessler (FBK), with an upcoming research internship at the UGent Complex Systems Institute, and serves as a Research Consultant at EduDataLabs.
     </p>
 
     <p>
