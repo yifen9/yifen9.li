@@ -18,6 +18,8 @@ title: "LI Yifeng"
   - I received a formal offer to a consultant at the **EduDataLabs**, Hong Kong, contracted, from Dr. Snow Wang and Dr. Jingwen Mu
 - 16
   - I received an informal invitation at the **EduDataLabs**, Hong Kong, contracted, from Dr. Snow Wang
+- 12
+  - My Website **A Moving Map of Science** is available online, at https://clarelab.github.io/scholar-mm
 - 09
   - The decision for my paper #11, *"When Can Directed Social Flows Be Summarized by a Scalar Potential?"*, is: decision: Accept (Poster), from the **Nordic Conference on Computational Social Science (CS2Nordics) 2026**, Copenhagen, Denmark
   - The decision for my paper #2, *"Access to a Concentrated Academic Core: Non-Core Intermediaries and Budget-Dependent Disruption in Global Mobility Networks"*, is: decision: Accept (Poster), from the **Nordic Conference on Computational Social Science (CS2Nordics) 2026**, Copenhagen, Denmark
