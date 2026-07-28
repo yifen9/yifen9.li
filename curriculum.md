@@ -17,12 +17,12 @@ title: "LI Yifeng"
 ## Experience
 
 - Research Intern, Ghent University, Belgium, Sep - Dec 2026
-  - Supervised under Prof. Luis E C Rocha and Prof. Michele Tizzoni
+  - Supervised by Prof. Luis E C Rocha and Prof. Michele Tizzoni
   - *UGent Complex Systems Institute*
 - Research Consultant, EduDataLabs, Hong Kong, Jul 2026 - Current
   - *Worldwide Universities Network*
 - Research / Backend Development Intern, Fondazione Bruno Kessler, Italy, Jan - Sep 2026
-  - Supervised under Dr. Simone Bassanelli and Prof. Luca Turchet
+  - Supervised by Dr. Simone Bassanelli and Prof. Luca Turchet
   - *Social Data Analysis and Modeling*
   - *GamiDOC: A Tool for Designing and Evaluating Gamified Solutions*
 
