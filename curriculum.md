@@ -19,8 +19,6 @@ title: "LI Yifeng"
 - Research Intern, Ghent University, Belgium, Sep - Dec 2026
   - Supervised by Prof. Luis E C Rocha and Prof. Michele Tizzoni
   - *UGent Complex Systems Institute*
-- Research Consultant, EduDataLabs, Hong Kong, Jul 2026 - Current
-  - *Worldwide Universities Network*
 - Research / Backend Development Intern, Fondazione Bruno Kessler, Italy, Jan - Sep 2026
   - Supervised by Dr. Simone Bassanelli and Prof. Luca Turchet
   - *Social Data Analysis and Modeling*
