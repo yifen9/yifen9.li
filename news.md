@@ -30,11 +30,15 @@ title: "LI Yifeng"
   - The decision for my paper #2, *"Access to a Concentrated Academic Core: Non-Core Intermediaries and Budget-Dependent Disruption in Global Mobility Networks"*, is: decision: Accept (Poster), from the **Nordic Conference on Computational Social Science (CS2Nordics) 2026**, Copenhagen, Denmark
 - 06
   - I am officially accepted as an exchange student at **Ghent University**, Belgium, from 15/09/2026 until 15/12/2026, at the Faculty of Economics and Business Administration *(Faculteit Economie en Bedrijfskunde)*
+- 03
+  - I started a research pilot collaboration on scholar-mobility embeddings with Prof. Sadamori Kojaku, at the **Binghamton University**, USA, following an online meeting
 - 01
   - My public-facing research presence at RedNote hits **10,000 audiences**, ID: clareLab
 
 ### Jun
 
+- 29
+  - I received an informal invitation to a pilot research collaboration from Prof. Sadamori Kojaku, at the **Binghamton University**, USA
 - 14
   - My public-facing research presence at RedNote hits **5,000 audiences**, ID: clareLab
 - 10
