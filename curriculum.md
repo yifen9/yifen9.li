@@ -17,7 +17,7 @@ title: "LI Yifeng"
 ## Experience
 
 - Research Pilot Collaboration, Binghamton University, USA, Jun 2026 - Current
-  - *Scholar-mobility embeddings, with Sadamori Kojaku*
+  - *Scholar-Mobility Embeddings, with Sadamori Kojaku*
 - Research Intern, Ghent University, Belgium, Sep - Dec 2026
   - Supervised by Prof. Luis E C Rocha and Prof. Michele Tizzoni
   - *UGent Complex Systems Institute*
