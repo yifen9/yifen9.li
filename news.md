@@ -12,6 +12,11 @@ title: "LI Yifeng"
 
 ## 2026
 
+### Aug
+
+- 14
+  - Our contribution *"Developing a Decision-Support Tool for Gameful Systems: An Iterative Approach to User Study Planning"* (ID 149) has been accepted for the GALA 2026 program as a Work In Progress Paper, and thus will be published as a 9-page paper in the proceedings, from the **15th Games and Learning Alliance Conference (GALA) 2026**, L'Aquila, Italy
+
 ### Jul
 
 - 21
