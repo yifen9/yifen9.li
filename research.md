@@ -19,10 +19,10 @@ title: "LI Yifeng"
 
 ### Accepted
 
-- Access to a Concentrated Academic Core: Non-Core Intermediaries and Budget-Dependent Disruption in Global Mobility Networks, Current
+- Access to a Concentrated Academic Core: Non-Core Intermediaries and Budget-Dependent Disruption in Global Mobility Networks, Sep 2026
   - Y. Li. Accepted for Poster Presentation at the Nordic Conference on Computational Social Science (CS2Nordics) 2026, Copenhagen, Denmark. ([Preprint](https://doi.org/10.5281/zenodo.19653916))
 - Developing a Decision-Support Tool for Gameful Systems: An Iterative Approach to User Study Planning, Aug 2026
-  - R. Ahmadi, S. Bassanelli, E. Bolognesi, Y. Li, N. Zhigalina, L. Turchet. Accepted as Work In Progress Paper at the 15th Games and Learning Alliance Conference (GALA) 2026, L'Aquila, Italy; to be published in the Springer LNCS proceedings.
+  - R. Ahmadi, S. Bassanelli, E. Bolognesi, Y. Li, N. Zhigalina, L. Turchet. Accepted as Work In Progress Paper at the 15th Games and Learning Alliance Conference (GALA) 2026, L'Aquila, Italy (proceedings in Springer LNCS).
 - Rising Dispersion in Country-Level Academic Mobility Rankings from ORCID-Derived Flow Networks, Feb 2026
   - Y. Li. Accepted for Poster Presentation at the Network Science Society Conference (NetSci) 2026, Boston, USA. ([Confirmation Letter](https://assets.yifen9.li/projects/osr/papers/netsci2026/orc207.pdf) / [Preprint](https://doi.org/10.5281/zenodo.18068503))
 
