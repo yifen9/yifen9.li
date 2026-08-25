@@ -18,7 +18,7 @@ title: "LI Yifeng"
 ## Language Certificates
 
 - [English IELTS](https://assets.yifen9.li/shared/lang/en_ielts.pdf)
-- [Japanese JLPT](https://assets.yifen9.li/shared/lang/jp_jlpt.png)
+- [Japanese JLPT](https://assets.yifen9.li/shared/lang/jp_jlpt.pdf)
 - [Italian UniTrento](https://assets.yifen9.li/shared/lang/it_unitn.png)
 - [German UniTrento](https://assets.yifen9.li/shared/lang/de_unitn.png)
 
