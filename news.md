@@ -14,6 +14,10 @@ title: "LI Yifeng"
 
 ### Aug
 
+- 26
+  - My public-facing research presence at X hits **1,000 audiences**, ID: c1areLab
+- 25
+  - My public-facing research presence at GitHub hits **100 audiences**, ID: clareLab
 - 14
   - Our contribution *"Developing a Decision-Support Tool for Gameful Systems: An Iterative Approach to User Study Planning"* (ID 149) has been accepted for the GALA 2026 program as a Work In Progress Paper, from the **15th Games and Learning Alliance Conference (GALA 2026)**, L'Aquila, Italy
 
