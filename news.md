@@ -12,6 +12,11 @@ title: "LI Yifeng"
 
 ## 2026
 
+### Sep
+
+- 15
+  - My internship started at the **Ghent University Complex Systems Institute**, Belgium, supervised under Prof. Luis Enrique Correa da Rocha and Prof. Michele Tizzoni
+
 ### Aug
 
 - 26
