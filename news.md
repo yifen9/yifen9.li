@@ -12,8 +12,15 @@ title: "LI Yifeng"
 
 ## 2026
 
+### Oct
+
+- 01
+  - My submission, Submission ID: 8, *"Testing Gradient Structure in Unit-Conserved Directed Flow Networks"*, has been accepted for a POSTER PRESENTATION in one of the poster sessions of **The International Conference on Complex Networks and their Applications (CNA) 2026**.
+
 ### Sep
 
+- 21
+  - I did a poster presentation for my paper, *"Access to a Concentrated Academic Core: Non-Core Intermediaries and Budget-Dependent Disruption in Global Mobility Networks"*, at the **Nordic Conference on Computational Social Science (CS2Nordics) 2026**, Copenhagen, Denmark
 - 15
   - My internship started at the **Ghent University Complex Systems Institute**, Belgium, supervised under Prof. Luis Enrique Correa da Rocha and Prof. Michele Tizzoni
 
