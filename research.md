@@ -12,12 +12,6 @@ title: "LI Yifeng"
 
 ## Peer Reviewed
 
-### Submitted
-
-- *RecurFlow: Testing Gradient Structure in Unit-Conserved Directed Flow Networks* ([Preprint](https://doi.org/10.5281/zenodo.20693695))
-  - **Y. Li**
-  - Submitted as Extended Abstract to International Conference on Complex Networks and their Applications (CNA) 2026, Granada, Spain
-
 ### Accepted
 
 - **Nov 2026**
