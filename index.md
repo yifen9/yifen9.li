@@ -87,8 +87,17 @@ title: "LI Yifeng"
   </tr>
 
   <tr>
+    <td style="border: 1px solid black;">Mar 2027</td>
+    <td style="border: 1px solid black;">Jun 2027</td>
+    <td style="border: 1px solid black;">Ghent</td>
+    <td style="border: 1px solid black; text-align: center; vertical-align: middle;">
+      <img src="https://assets.yifen9.li/shared/img/be.png" alt="Belgium" height="16" loading="lazy" style="border: 1px solid black; display: block; margin: 0 auto;">
+    </td>
+  </tr>
+
+  <tr>
     <td style="border: 1px solid black;">Dec 2026</td>
-    <td style="border: 1px solid black;">Spring 2027</td>
+    <td style="border: 1px solid black;">Mar 2027</td>
     <td style="border: 1px solid black;">Trento</td>
     <td style="border: 1px solid black; text-align: center; vertical-align: middle;">
       <img src="https://assets.yifen9.li/shared/img/it.png" alt="Italy" height="16" loading="lazy" style="border: 1px solid black; display: block; margin: 0 auto;">
