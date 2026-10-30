@@ -14,6 +14,8 @@ title: "LI Yifeng"
 
 ### Oct
 
+- 27
+  - I received a letter of admission to the Master of Science in Computer Science Engineering starting on 27 September 2027, from **Ghent University**, Belgium, at the Faculty of Engineering and Architecture *(Faculteit Ingenieurswetenschappen en Architectuur)*
 - 23
   - Prof. Dakota Murray, at the **University at Albany**, USA, joined my research collaboration with Prof. Sadamori Kojaku on temporal embeddings of scholarly mobility
 - 01

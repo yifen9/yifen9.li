@@ -8,11 +8,15 @@ title: "LI Yifeng"
 
 # Research
 
-## Manuscripts
+*More on: [Google Scholar](https://scholar.google.com/citations?user=e-onISEAAAAJ)*
 
-- **2026**
+## Working Papers
+
+- **Oct 2026**
   - *Delegation of Research Decisions to Large Language Models*
     - **Y. Li**
+  - *Measured or Real? When Model-Derived Measurements Can Be Corrected or Compared* ([Preprint](https://arxiv.org/abs/2610.38015))
+    - **Y. Li**, Z. Ni
 
 ## Peer Reviewed
 

@@ -31,6 +31,7 @@ title: "LI Yifeng"
 
 - [mail@yifen9.li](mailto:mail@yifen9.li)
 - [yifeng.li@studenti.unitn.it](mailto:yifeng.li@studenti.unitn.it)
+- [yifeng.li@ugent.be](mailto:yifeng.li@ugent.be)
 - [yli@fbk.eu](mailto:yli@fbk.eu)
 
 ## Social Media

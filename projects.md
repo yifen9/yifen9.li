@@ -8,20 +8,7 @@ title: "LI Yifeng"
 
 # Projects
 
-- Mofufu Bot, Oct 2026 - Current ([Website](https://mofufu.clarelab.moe))
-- A Moving Map of Science, Jul 2026 - Current ([GitHub](https://github.com/clarelab/scholar-mm) / [Website](https://clarelab.github.io/scholar-mm))
-- GamiDOC, Jan 2026 - Current ([GitHub](https://github.com/gamidoc))
-- Reddit Archive, Sep 2025 - Current ([GitHub](https://github.com/open-run-org/archive) / [Website](https://archive.open-run.org))
-- Open Scholar Ranking, Apr 2024 - Current ([Website](https://osr.clarelab.moe))
-
-## Packages
-
-- DynamicSpringRank.jl, Nov 2025 - Current ([Documentation](https://dsr-jl.apps.yifen9.li) / [GitHub](https://github.com/yifen9/DynamicSpringRank.jl))
-- SpringRank.jl, Oct - Nov 2025 ([Documentation](https://sr-jl.apps.yifen9.li) / [GitHub](https://github.com/yifen9/SpringRank.jl))
-- extract-artifact, May 2025 ([GitHub](https://github.com/yifen9/extract-artifact))
-
-## Datasets
-
-- Registry of Women's Universities in India, Japan, South Korea and the United States, 2008–2025 ([Zenodo](https://doi.org/10.5281/zenodo.23342336))
-- ORCID-Derived Academic Mobility Edges with Resolved Cities and Organizations ([Zenodo](https://doi.org/10.5281/zenodo.19651302))
-- ORCID-derived Academic Mobility Networks ([Zenodo](https://doi.org/10.5281/zenodo.17983291))
+- Mofufu Bot, Oct 2026 ([Website](https://mofufu.clarelab.moe))
+- A Moving Map of Science, Jul 2026 ([GitHub](https://github.com/clarelab/scholar-mm) / [Website](https://clarelab.github.io/scholar-mm))
+- Reddit Archive, Sep 2025 ([GitHub](https://github.com/open-run-org/archive) / [Website](https://archive.open-run.org))
+- Open Scholar Ranking, Apr 2024 ([Website](https://osr.clarelab.moe))
