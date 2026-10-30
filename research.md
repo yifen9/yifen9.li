@@ -8,7 +8,11 @@ title: "LI Yifeng"
 
 # Research
 
-*More on: <https://research.yifen9.li>*
+## Manuscripts
+
+- **2026**
+  - *Delegation of Research Decisions to Large Language Models*
+    - **Y. Li**
 
 ## Peer Reviewed
 
@@ -19,7 +23,7 @@ title: "LI Yifeng"
     - R. Ahmadi, S. Bassanelli, E. Bolognesi, **Y. Li**, N. Zhigalina, L. Turchet
     - Accepted as Work In Progress Paper at the 15th Games and Learning Alliance Conference (GALA) 2026, L'Aquila, Italy
 - **Sep 2026**
-  - *Access to a Concentrated Academic Core: Non-Core Intermediaries and Budget-Dependent Disruption in Global Mobility Networks* ([Preprint](https://doi.org/10.5281/zenodo.19653916))
+  - *Access to a Concentrated Academic Core: Non-Core Intermediaries and Budget-Dependent Disruption in Global Mobility Networks* ([Preprint](https://doi.org/10.5281/zenodo.19653916) / [Poster](https://assets.yifen9.li/projects/cs2n/poster.pdf))
     - **Y. Li**
     - Accepted for Poster Presentation at the Nordic Conference on Computational Social Science (CS2Nordics) 2026, Copenhagen, Denmark
 - **Jun 2026**

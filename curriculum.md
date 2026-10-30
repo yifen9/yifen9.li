@@ -16,12 +16,12 @@ title: "LI Yifeng"
 
 ## Experience
 
-- Research Pilot Collaboration, Binghamton University, USA, Jun 2026 - Current
-  - *Scholar-Mobility Embeddings, with Sadamori Kojaku*
-- Research Intern, Ghent University, Belgium, Sep - Dec 2026
-  - Supervised by Prof. Luis E C Rocha and Prof. Michele Tizzoni
-  - *UGent Complex Systems Institute*
-- Research / Backend Development Intern, Fondazione Bruno Kessler, Italy, Jan - Sep 2026
+- Research Collaboration, Binghamton University & University at Albany, USA, Jun 2026 - Current
+  - Collaborating with Prof. Sadamori Kojaku and Prof. Dakota Murray
+  - *Temporal Embeddings of Scholarly Mobility*, Manuscript in Preparation
+- Thesis Intern, Fondazione Bruno Kessler, Italy, Oct 2026 - Current
+  - Supervised by Dr. Simone Bassanelli and Prof. Luca Turchet
+- Research & Development Intern, Fondazione Bruno Kessler, Italy, Jan - Sep 2026
   - Supervised by Dr. Simone Bassanelli and Prof. Luca Turchet
   - *Developing a Decision-Support Tool for Gameful Systems: An Iterative Approach to User Study Planning*, Work In Progress Paper at *GALA 2026* (4th Author)
 

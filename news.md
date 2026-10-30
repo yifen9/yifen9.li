@@ -14,6 +14,8 @@ title: "LI Yifeng"
 
 ### Oct
 
+- 23
+  - Prof. Dakota Murray, at the **University at Albany**, USA, joined my research collaboration with Prof. Sadamori Kojaku on temporal embeddings of scholarly mobility
 - 01
   - My submission, Submission ID: 8, *"Testing Gradient Structure in Unit-Conserved Directed Flow Networks"*, has been accepted for a POSTER PRESENTATION in one of the poster sessions of **The International Conference on Complex Networks and their Applications (CNA) 2026**.
 

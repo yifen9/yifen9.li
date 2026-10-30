@@ -39,22 +39,22 @@ title: "LI Yifeng"
   <div id="bio-first">
     <p>
       I am from China and currently pursuing a Bachelor's Degree in Computer Science (L-31) at the University of Trento, Italy.
-      I am also conducting a research internship at the UGent Complex Systems Institute.
+      I am also conducting a thesis internship at Fondazione Bruno Kessler (FBK) and collaborating with Prof. Sadamori Kojaku (Binghamton University) and Prof. Dakota Murray (University at Albany) on temporal embeddings of scholarly mobility.
     </p>
 
     <p>
-      My primary research interests lie in complex systems, network science, and computational social science.
+      My primary research interests lie in complex systems, network science, computational social science, and science of science.
     </p>
   </div>
 
   <div id="bio-third" style="display: none;">
     <p>
       LI Yifeng is from China and is currently pursuing a Bachelor's Degree in Computer Science (L-31) at the University of Trento, Italy.
-      He is also conducting a research internship at the UGent Complex Systems Institute.
+      He is also conducting a thesis internship at Fondazione Bruno Kessler (FBK) and collaborating with Prof. Sadamori Kojaku (Binghamton University) and Prof. Dakota Murray (University at Albany) on temporal embeddings of scholarly mobility.
     </p>
 
     <p>
-      His primary research interests lie in complex systems, network science, and computational social science.
+      His primary research interests lie in complex systems, network science, computational social science, and science of science.
     </p>
   </div>
 </div>
@@ -63,16 +63,16 @@ title: "LI Yifeng"
 
 <div style="gap: 2rem;">
   <div style="width: 100%; text-align: center;">
-    <iframe width="100%" height="256px" src="https://www.openstreetmap.org/export/embed?bbox=3.725789487361908%2C51.042085342567475%2C3.7293300032615666%2C51.043537342303146" style="border: 1px solid black"></iframe>
+    <iframe width="100%" height="256px" src="https://www.openstreetmap.org/export/embed.html?bbox=11.14803045988083%2C46.06618537096874%2C11.151570975780489%2C46.06778765918002" style="border: 1px solid black"></iframe>
   </div>
 </div>
 
 - English
-  - Faculty of Economics and Business Administration
-  - Campus Tweekerken
-  - Tweekerkenstraat 2
-  - 9000 Ghent
-  - Belgium
+  - Department of Information Engineering and Computer Science - DISI
+  - Via Sommarive, 9 I-38123 Povo (TN)
+- Italian
+  - Dipartimento di Ingegneria e Scienza dell'Informazione - DISI
+  - Via Sommarive, 9 I-38123 Povo (TN)
 
 ## Trace
 
@@ -87,17 +87,8 @@ title: "LI Yifeng"
   </tr>
 
   <tr>
-    <td style="border: 1px solid black;">Mar 2027</td>
-    <td style="border: 1px solid black;">Jun 2027</td>
-    <td style="border: 1px solid black;">Ghent</td>
-    <td style="border: 1px solid black; text-align: center; vertical-align: middle;">
-      <img src="https://assets.yifen9.li/shared/img/be.png" alt="Belgium" height="16" loading="lazy" style="border: 1px solid black; display: block; margin: 0 auto;">
-    </td>
-  </tr>
-
-  <tr>
     <td style="border: 1px solid black;">Dec 2026</td>
-    <td style="border: 1px solid black;">Mar 2027</td>
+    <td style="border: 1px solid black;">Summer 2027</td>
     <td style="border: 1px solid black;">Trento</td>
     <td style="border: 1px solid black; text-align: center; vertical-align: middle;">
       <img src="https://assets.yifen9.li/shared/img/it.png" alt="Italy" height="16" loading="lazy" style="border: 1px solid black; display: block; margin: 0 auto;">
