@@ -31,9 +31,9 @@ title: "LI Yifeng"
 ### Aug
 
 - 26
-  - My research outreach account on X (c1areLab) reached **1,000 followers**
+  - My account on X (c1areLab) reached **1,000 followers**
 - 25
-  - My research outreach account on GitHub (clareLab) reached **100 followers**
+  - My account on GitHub (clareLab) reached **100 followers**
 - 14
   - Our paper *"Developing a Decision-Support Tool for Gameful Systems: An Iterative Approach to User Study Planning"* (ID 149) was accepted as a work-in-progress paper at the **15th Games and Learning Alliance Conference (GALA 2026)**, L'Aquila, Italy
 
@@ -51,14 +51,12 @@ title: "LI Yifeng"
 - 03
   - Following an online meeting, I started a pilot research collaboration on scholar-mobility embeddings with Prof. Sadamori Kojaku of **Binghamton University**, USA
 - 01
-  - My research outreach account on RedNote (clareLab) reached **10,000 followers**
+  - My account on RedNote (clareLab) reached **10,000 followers**
 
 ### Jun
 
-- 14
-  - My research outreach account on RedNote (clareLab) reached **5,000 followers**
 - 10
-  - My research outreach account on RedNote (clareLab) reached **1,000 followers**
+  - My account on RedNote (clareLab) reached **1,000 followers**
 - 01
   - My website **Open Scholar Ranking** went online at https://osr.clarelab.moe
 
