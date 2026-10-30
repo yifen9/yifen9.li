@@ -14,6 +14,8 @@ title: "LI Yifeng"
 
 ### Oct
 
+- 28
+  - My LLM agent **Mofufu Bot** went online at https://mofufu.clarelab.moe
 - 27
   - I was admitted to the Master of Science in Computer Science Engineering at the Faculty of Engineering and Architecture *(Faculteit Ingenieurswetenschappen en Architectuur)*, **Ghent University**, Belgium, starting on 27 September 2027
 - 23
