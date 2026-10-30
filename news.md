@@ -8,99 +8,89 @@ title: "LI Yifeng"
 
 # News
 
-*Since Jan 1 2026*
+*Since 1 January 2026*
 
 ## 2026
 
 ### Oct
 
 - 27
-  - I received a letter of admission to the Master of Science in Computer Science Engineering starting on 27 September 2027, from **Ghent University**, Belgium, at the Faculty of Engineering and Architecture *(Faculteit Ingenieurswetenschappen en Architectuur)*
+  - I was admitted to the Master of Science in Computer Science Engineering at the Faculty of Engineering and Architecture *(Faculteit Ingenieurswetenschappen en Architectuur)*, **Ghent University**, Belgium, starting on 27 September 2027
 - 23
-  - Prof. Dakota Murray, at the **University at Albany**, USA, joined my research collaboration with Prof. Sadamori Kojaku on temporal embeddings of scholarly mobility
+  - Prof. Dakota Murray of the **University at Albany**, USA, joined my research collaboration with Prof. Sadamori Kojaku on temporal embeddings of scholarly mobility
 - 01
-  - My submission, Submission ID: 8, *"Testing Gradient Structure in Unit-Conserved Directed Flow Networks"*, has been accepted for a POSTER PRESENTATION in one of the poster sessions of **The International Conference on Complex Networks and their Applications (CNA) 2026**.
+  - My submission *"Testing Gradient Structure in Unit-Conserved Directed Flow Networks"* (ID 8) was accepted for a poster presentation at the **International Conference on Complex Networks and their Applications (CNA) 2026**
 
 ### Sep
 
 - 21
-  - I did a poster presentation for my paper, *"Access to a Concentrated Academic Core: Non-Core Intermediaries and Budget-Dependent Disruption in Global Mobility Networks"*, at the **Nordic Conference on Computational Social Science (CS2Nordics) 2026**, Copenhagen, Denmark
+  - I presented my paper *"Access to a Concentrated Academic Core: Non-Core Intermediaries and Budget-Dependent Disruption in Global Mobility Networks"* as a poster at the **Nordic Conference on Computational Social Science (CS2Nordics) 2026**, Copenhagen, Denmark
 - 15
-  - My internship started at the **Ghent University Complex Systems Institute**, Belgium, supervised under Prof. Luis Enrique Correa da Rocha and Prof. Michele Tizzoni
+  - I started my internship at the **Complex Systems Institute of Ghent University**, Belgium, supervised by Prof. Luis Enrique Correa da Rocha and Prof. Michele Tizzoni
 
 ### Aug
 
 - 26
-  - My public-facing research presence at X hits **1,000 audiences**, ID: c1areLab
+  - My research outreach account on X (c1areLab) reached **1,000 followers**
 - 25
-  - My public-facing research presence at GitHub hits **100 audiences**, ID: clareLab
+  - My research outreach account on GitHub (clareLab) reached **100 followers**
 - 14
-  - Our contribution *"Developing a Decision-Support Tool for Gameful Systems: An Iterative Approach to User Study Planning"* (ID 149) has been accepted for the GALA 2026 program as a Work In Progress Paper, from the **15th Games and Learning Alliance Conference (GALA 2026)**, L'Aquila, Italy
+  - Our paper *"Developing a Decision-Support Tool for Gameful Systems: An Iterative Approach to User Study Planning"* (ID 149) was accepted as a work-in-progress paper at the **15th Games and Learning Alliance Conference (GALA 2026)**, L'Aquila, Italy
 
 ### Jul
 
 - 21
-  - I received a formal offer to a consultant at the **EduDataLabs**, Hong Kong, contracted, from Dr. Snow Wang and Dr. Jingwen Mu
-- 16
-  - I received an informal invitation at the **EduDataLabs**, Hong Kong, contracted, from Dr. Snow Wang
+  - I received a formal offer of a contract consultant position at **EduDataLabs**, Hong Kong, from Dr. Snow Wang and Dr. Jingwen Mu
 - 12
-  - My Website **A Moving Map of Science** is available online, at https://clarelab.github.io/scholar-mm
+  - My website **A Moving Map of Science** went online at https://clarelab.github.io/scholar-mm
 - 09
-  - The decision for my paper #11, *"When Can Directed Social Flows Be Summarized by a Scalar Potential?"*, is: decision: Accept (Poster), from the **Nordic Conference on Computational Social Science (CS2Nordics) 2026**, Copenhagen, Denmark
-  - The decision for my paper #2, *"Access to a Concentrated Academic Core: Non-Core Intermediaries and Budget-Dependent Disruption in Global Mobility Networks"*, is: decision: Accept (Poster), from the **Nordic Conference on Computational Social Science (CS2Nordics) 2026**, Copenhagen, Denmark
+  - My paper *"When Can Directed Social Flows Be Summarized by a Scalar Potential?"* (#11) was accepted as a poster at the **Nordic Conference on Computational Social Science (CS2Nordics) 2026**, Copenhagen, Denmark
+  - My paper *"Access to a Concentrated Academic Core: Non-Core Intermediaries and Budget-Dependent Disruption in Global Mobility Networks"* (#2) was accepted as a poster at the **Nordic Conference on Computational Social Science (CS2Nordics) 2026**, Copenhagen, Denmark
 - 06
-  - I am officially accepted as an exchange student at **Ghent University**, Belgium, from 15/09/2026 until 15/12/2026, at the Faculty of Economics and Business Administration *(Faculteit Economie en Bedrijfskunde)*
+  - I was officially accepted as an exchange student at the Faculty of Economics and Business Administration *(Faculteit Economie en Bedrijfskunde)*, **Ghent University**, Belgium, from 15 September to 15 December 2026
 - 03
-  - I started a research pilot collaboration on scholar-mobility embeddings with Prof. Sadamori Kojaku, at the **Binghamton University**, USA, following an online meeting
+  - Following an online meeting, I started a pilot research collaboration on scholar-mobility embeddings with Prof. Sadamori Kojaku of **Binghamton University**, USA
 - 01
-  - My public-facing research presence at RedNote hits **10,000 audiences**, ID: clareLab
+  - My research outreach account on RedNote (clareLab) reached **10,000 followers**
 
 ### Jun
 
-- 29
-  - I received an informal invitation to a pilot research collaboration from Prof. Sadamori Kojaku, at the **Binghamton University**, USA
 - 14
-  - My public-facing research presence at RedNote hits **5,000 audiences**, ID: clareLab
+  - My research outreach account on RedNote (clareLab) reached **5,000 followers**
 - 10
-  - My public-facing research presence at RedNote hits **1,000 audiences**, ID: clareLab
+  - My research outreach account on RedNote (clareLab) reached **1,000 followers**
 - 01
-  - My Website **Open Scholar Ranking** is available online, at https://osr.clarelab.moe
+  - My website **Open Scholar Ranking** went online at https://osr.clarelab.moe
 
 ### May
 
 - 07
-  - I received a formal offer to a research internship at the **Complex Systems Institute of Ghent University**, Belgium, from Sep 19 2026 to Dec 19 2026, from Prof. Luis Enrique Correa da Rocha
+  - I received a formal offer from Prof. Luis Enrique Correa da Rocha for a research internship at the **Complex Systems Institute of Ghent University**, Belgium, from 19 September to 19 December 2026
 
 ### Apr
 
 - 27
-  - My internship at **Fondazione Bruno Kessler (FBK)**, Italy got extended from May 6 2026 to Sep 1 2026, with work towards *Social Data Analysis and Modelling*, supervised under Dr. Simone Bassanelli and Prof. Luca Turchet, collaborated with the FBK Motivational Digital Systems group (MoDiS) and the FBK Complex Human Behaviour Lab (CHuB)
-- 21
-  - I received an informal invitation to a research visit at the **Complex Systems Institute of Ghent University**, Belgium, starting in late 2026, from Prof. Luis Enrique Correa da Rocha
-- 20
-  - I received an informal invitation to the Five-year Doctoral Program at the **Mizuno Lab of the National Institute of Informatics (NII)**, Japan, starting in 2027, supervised under Prof. Takayuki Mizuno
-- 13
-  - I received a conditional informal invitation to the Five-year Doctoral Program at the **Mizuno Lab of the National Institute of Informatics (NII)**, Japan, starting in 2027, supervised under Prof. Takayuki Mizuno
+  - My internship at **Fondazione Bruno Kessler (FBK)**, Italy, was extended from 6 May to 1 September 2026 to work on *Social Data Analysis and Modelling*, supervised by Dr. Simone Bassanelli and Prof. Luca Turchet, in collaboration with the FBK Motivational Digital Systems group (MoDiS) and the FBK Complex Human Behaviour Lab (CHuB)
 - 09
-  - I have been accepted to Computational Neuroscience July 06 - July 24 2026, from **Neuromatch**
+  - I was accepted to the **Neuromatch** Computational Neuroscience course, 6–24 July 2026
 
 ### Mar
 
 - 12
-  - My submission: *When Can We Recover Granger/Transfer-Entropy Networks in High Dimensions? Information-Theoretic Limits and Achievable Regimes for VAR Graph Recovery* is now posted on **Social Science Research Network (SSRN)**
+  - My paper *"When Can We Recover Granger/Transfer-Entropy Networks in High Dimensions? Information-Theoretic Limits and Achievable Regimes for VAR Graph Recovery"* was posted on the **Social Science Research Network (SSRN)**
 - 11
-  - I received an offer of conditional admission to the MSc Programme in Computer Science starting on 1 September 2026, from the **University of Copenhagen**, Denmark
+  - I received a conditional offer of admission to the MSc programme in Computer Science, starting on 1 September 2026, from the **University of Copenhagen**, Denmark
 - 04
-  - My abstract 'E1287: *Recovering Granger/Transfer-Entropy Networks in High-Dimensional VARs: Limits and Achievability* has been accepted for presentation conditionally that the presenting author is registered for the conference by 8th May 2026, from **The 9th International Conference on Econometrics and Statistics (EcoSta) 2026**, Kyoto, Japan
+  - My abstract *"Recovering Granger/Transfer-Entropy Networks in High-Dimensional VARs: Limits and Achievability"* (E1287) was accepted for presentation at the **9th International Conference on Econometrics and Statistics (EcoSta) 2026**, Kyoto, Japan, on condition that the presenting author registered by 8 May 2026
 
 ### Feb
 
 - 16
-  - My submission 207 entitled: *Rising Dispersion in Country-Level Academic Mobility Rankings from ORCID-Derived Flow Networks* has been accepted for a Poster at the **International School & Conference on Network Science (NetSci) 2026**, Boston, USA
+  - My submission *"Rising Dispersion in Country-Level Academic Mobility Rankings from ORCID-Derived Flow Networks"* (207) was accepted as a poster at the **International School & Conference on Network Science (NetSci) 2026**, Boston, USA
 
 ### Jan
 
 - 30
-  - I passed the **Japanese-Language Proficiency Test (JLPT) N3** exam
+  - I passed the **Japanese-Language Proficiency Test (JLPT) N3**
 - 06
-  - My internship started at the **Fondazione Bruno Kessler (FBK) GamiDOC team**, Italy, supervised under Dr. Simone Bassanelli and Prof. Luca Turchet
+  - I started my internship with the **GamiDOC team at Fondazione Bruno Kessler (FBK)**, Italy, supervised by Dr. Simone Bassanelli and Prof. Luca Turchet

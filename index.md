@@ -18,6 +18,7 @@ title: "LI Yifeng"
       <li>LI Yifeng (李 艺峰)</li>
       <li>November 9, 2005</li>
       <li>Ghent (BE)</li>
+      <li><a href="mailto:mail@yifen9.li">mail@yifen9.li</a></li>
       <li><a href="https://assets.yifen9.li/shared/cv.pdf">Curriculum Vitae</a></li>
     </ul>
   </div>
