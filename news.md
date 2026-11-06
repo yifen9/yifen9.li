@@ -12,6 +12,11 @@ title: "LI Yifeng"
 
 ## 2026
 
+### Nov
+
+- 05
+  - My ranking site **AllRankings** went online at https://ar.clarelab.moe
+
 ### Oct
 
 - 28
