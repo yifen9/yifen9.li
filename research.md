@@ -12,6 +12,10 @@ title: "LI Yifeng"
 
 ## Working Papers
 
+- **Nov 2026**
+  - *Research Records Distinguish Japanese Women's Universities*
+    - **Y. Li**
+    - Under review at Quantitative Science Studies
 - **Oct 2026**
   - *Delegation of Research Decisions to Large Language Models*
     - **Y. Li**
