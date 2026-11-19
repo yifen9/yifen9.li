@@ -16,6 +16,9 @@ title: "LI Yifeng"
   - *Research Records Distinguish Japanese Women's Universities*
     - **Y. Li**
     - Under review at Quantitative Science Studies
+  - *Institutional Premium in Venue Placement*
+    - **Y. Li**
+    - Submitted to Science Advances
 - **Oct 2026**
   - *Delegation of Research Decisions to Large Language Models*
     - **Y. Li**
