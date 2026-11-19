@@ -14,19 +14,19 @@ title: "LI Yifeng"
 
 ### Nov
 
+- 13
+  - My website (clarelab.moe) reached **10,000 unique visitors**
 - 05
-  - My ranking site **AllRankings** went online at https://ar.clarelab.moe
+  - My website **AllRankings** went online at https://ar.clarelab.moe
 
 ### Oct
 
 - 28
-  - My LLM agent **Mofufu Bot** went online at https://mofufu.clarelab.moe
+  - My website **Mofufu Bot** went online at https://mofufu.clarelab.moe
 - 27
   - I was admitted to the Master of Science in Computer Science Engineering at the Faculty of Engineering and Architecture *(Faculteit Ingenieurswetenschappen en Architectuur)*, **Ghent University**, Belgium, starting on 27 September 2027
 - 23
   - Prof. Dakota Murray of the **University at Albany**, USA, joined my research collaboration with Prof. Sadamori Kojaku on temporal embeddings of scholarly mobility
-- 01
-  - My submission *"Testing Gradient Structure in Unit-Conserved Directed Flow Networks"* (ID 8) was accepted for a poster presentation at the **International Conference on Complex Networks and their Applications (CNA) 2026**
 
 ### Sep
 
