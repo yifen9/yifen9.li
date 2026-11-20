@@ -13,7 +13,7 @@ title: "LI Yifeng"
 ## Working Papers
 
 - **Nov 2026**
-  - *Research Records Distinguish Japanese Women's Universities* ([Data](https://doi.org/10.5281/zenodo.23927507) / [Code](https://doi.org/10.5281/zenodo.23928744))
+  - *Research Records Distinguish Japanese Women's Universities* ([Code](https://doi.org/10.5281/zenodo.23928744) / [Data](https://doi.org/10.5281/zenodo.23927507))
     - **Y. Li**
     - Under review at Quantitative Science Studies
   - *Institutional Premium in Venue Placement* ([Code](https://doi.org/10.5281/zenodo.24374358))

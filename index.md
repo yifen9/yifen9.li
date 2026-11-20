@@ -44,7 +44,7 @@ title: "LI Yifeng"
     </p>
 
     <p>
-      My primary research interests lie in complex systems, network science, computational social science, and science of science.
+      My primary research interest lies in the science of science.
     </p>
   </div>
 
@@ -55,7 +55,7 @@ title: "LI Yifeng"
     </p>
 
     <p>
-      His primary research interests lie in complex systems, network science, computational social science, and science of science.
+      His primary research interest lies in the science of science.
     </p>
   </div>
 </div>
