@@ -23,7 +23,7 @@ title: "LI Yifeng"
   - Supervised by Dr. Simone Bassanelli and Prof. Luca Turchet
 - Research & Development Intern, Fondazione Bruno Kessler, Italy, Jan - Sep 2026
   - Supervised by Dr. Simone Bassanelli and Prof. Luca Turchet
-  - *Developing a Decision-Support Tool for Gameful Systems: An Iterative Approach to User Study Planning*, Work In Progress Paper at *GALA 2026* (4th Author)
+  - *Developing a Decision-Support Tool for Gameful Systems: An Iterative Approach to User Study Planning*, Work In Progress Paper at *GALA 2026*, Springer CCIS (4th Author)
 
 ## Awards
 
