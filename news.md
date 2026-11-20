@@ -14,6 +14,8 @@ title: "LI Yifeng"
 
 ### Nov
 
+- 17
+  - Our paper *"Developing a Decision-Support Tool for Gameful Systems: An Iterative Approach to User Study Planning"* was published in the **GALA 2026 Doctoral Symposium and Work in Progress** proceedings (Communications in Computer and Information Science, Springer)
 - 13
   - My website (clarelab.moe) reached **10,000 unique visitors**
 - 05

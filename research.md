@@ -26,12 +26,15 @@ title: "LI Yifeng"
 
 ## Peer Reviewed
 
-### Accepted
+### Published
 
 - **Nov 2026**
-  - *Developing a Decision-Support Tool for Gameful Systems: An Iterative Approach to User Study Planning*
+  - *Developing a Decision-Support Tool for Gameful Systems: An Iterative Approach to User Study Planning* ([Paper](https://doi.org/10.1007/978-3-032-44529-2_16))
     - R. Ahmadi, S. Bassanelli, E. Bolognesi, **Y. Li**, N. Zhigalina, L. Turchet
-    - Accepted as Work In Progress Paper at the 15th Games and Learning Alliance Conference (GALA) 2026, L'Aquila, Italy
+    - Published as Work In Progress Paper in the GALA 2026 proceedings (Communications in Computer and Information Science, Springer)
+
+### Accepted
+
 - **Sep 2026**
   - *Access to a Concentrated Academic Core: Non-Core Intermediaries and Budget-Dependent Disruption in Global Mobility Networks* ([Preprint](https://doi.org/10.5281/zenodo.19653916) / [Poster](https://assets.yifen9.li/projects/cs2n/poster.pdf))
     - **Y. Li**
