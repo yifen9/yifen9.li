@@ -13,13 +13,13 @@ title: "LI Yifeng"
 ## Working Papers
 
 - **Nov 2026**
-  - *Research Records Distinguish Japanese Women's Universities* ([Code](https://doi.org/10.5281/zenodo.23928744) / [Data](https://doi.org/10.5281/zenodo.23927507))
+  - *Research Records Distinguish Japanese Women's Universities* ([Preprint](https://assets.yifen9.li/projects/scholar-wu/papers/preprint/womens-universities.pdf) / [Code](https://doi.org/10.5281/zenodo.23928744))
     - **Y. Li**
     - Under review at Quantitative Science Studies
-  - *Institutional Premium in Venue Placement* ([Code](https://doi.org/10.5281/zenodo.24374358))
+  - *Institutional Premium in Venue Placement* ([Preprint](https://assets.yifen9.li/projects/scholar-ar/papers/preprint/institutional-premium.pdf) / [Code](https://doi.org/10.5281/zenodo.24374358))
     - **Y. Li**
 - **Oct 2026**
-  - *Delegation of Research Decisions to Large Language Models* ([Code](https://doi.org/10.5281/zenodo.24103370))
+  - *Delegation of Research Decisions to Large Language Models* ([Preprint](https://assets.yifen9.li/projects/scholar-llm/papers/preprint/delegation.pdf) / [Code](https://doi.org/10.5281/zenodo.24103370))
     - **Y. Li**
   - *Measured or Real? When Model-Derived Measurements Can Be Corrected or Compared* ([Preprint](https://arxiv.org/abs/2610.38015))
     - **Y. Li**, Z. Ni
