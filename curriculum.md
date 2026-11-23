@@ -18,7 +18,7 @@ title: "LI Yifeng"
 
 - Research Collaboration, Binghamton University & University at Albany, USA, Jun 2026 - Current
   - Collaborating with Prof. Sadamori Kojaku and Prof. Dakota Murray
-  - *Temporal Embeddings of Scholarly Mobility*, Manuscript in Preparation
+  - *Temporal Embeddings of Scholarly Mobility*, Manuscript in Preparation (1st Author)
 - Thesis Intern, Fondazione Bruno Kessler, Italy, Oct 2026 - Current
   - Supervised by Dr. Simone Bassanelli and Prof. Luca Turchet
 - Research & Development Intern, Fondazione Bruno Kessler, Italy, Jan - Sep 2026
