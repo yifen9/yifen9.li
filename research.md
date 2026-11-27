@@ -16,6 +16,8 @@ title: "LI Yifeng"
   - *Research Records Distinguish Japanese Women's Universities* ([Preprint](https://assets.yifen9.li/projects/scholar-wu/papers/preprint/womens-universities.pdf) / [Code](https://doi.org/10.5281/zenodo.23928744))
     - **Y. Li**
     - Under review at Quantitative Science Studies
+  - *AI Evaluation and AI Use on the Map of Science* ([Preprint](https://assets.yifen9.li/projects/scholar-bench/papers/preprint/ai-evaluation-and-use.pdf))
+    - **Y. Li**
   - *Institutional Premium in Venue Placement* ([Preprint](https://assets.yifen9.li/projects/scholar-ar/papers/preprint/institutional-premium.pdf) / [Code](https://doi.org/10.5281/zenodo.24374358))
     - **Y. Li**
 - **Oct 2026**
