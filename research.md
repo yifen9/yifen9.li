@@ -18,8 +18,6 @@ title: "LI Yifeng"
     - Under review at Quantitative Science Studies
   - *Evaluation and Use of AI on the Map of Science* ([Preprint](https://assets.yifen9.li/projects/scholar-bench/papers/preprint/ai-evaluation-and-use.pdf))
     - **Y. Li**
-  - *Institutional Premium in Venue Placement* ([Preprint](https://assets.yifen9.li/projects/scholar-ar/papers/preprint/institutional-premium.pdf) / [Code](https://doi.org/10.5281/zenodo.24374358))
-    - **Y. Li**
 - **Oct 2026**
   - *Delegation of Research Decisions to Large Language Models* ([Preprint](https://assets.yifen9.li/projects/scholar-llm/papers/preprint/delegation.pdf) / [Code](https://doi.org/10.5281/zenodo.24103370))
     - **Y. Li**

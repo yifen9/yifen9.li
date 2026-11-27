@@ -16,6 +16,9 @@ title: "LI Yifeng"
 
 ## Experience
 
+- Research Collaboration, Southern University of Science and Technology, China, Nov 2026 - Current
+  - Collaborating with Prof. Yifang Ma
+  - *Institutional Premium in Venue Placement*, Manuscript in Preparation (1st Author)
 - Research Collaboration, Binghamton University & University at Albany, USA, Jun 2026 - Current
   - Collaborating with Prof. Sadamori Kojaku and Prof. Dakota Murray
   - *Temporal Embeddings of Scholarly Mobility*, Manuscript in Preparation (1st Author)
