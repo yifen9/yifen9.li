@@ -40,7 +40,7 @@ title: "LI Yifeng"
   <div id="bio-first">
     <p>
       I am from China and currently pursuing a Bachelor's Degree in Computer Science (L-31) at the University of Trento, Italy.
-      I am also conducting a thesis internship at Fondazione Bruno Kessler (FBK) and collaborating with Prof. Sadamori Kojaku (Binghamton University) and Prof. Dakota Murray (University at Albany) on temporal embeddings of scholarly mobility.
+      I am also conducting a thesis internship at Fondazione Bruno Kessler (FBK) and collaborating with Prof. Yifang Ma (Southern University of Science and Technology) on institutional premiums in venue placement, and with Prof. Sadamori Kojaku (Binghamton University) and Prof. Dakota Murray (University at Albany) on temporal embeddings of scholarly mobility.
     </p>
 
     <p>
@@ -51,7 +51,7 @@ title: "LI Yifeng"
   <div id="bio-third" style="display: none;">
     <p>
       LI Yifeng is from China and is currently pursuing a Bachelor's Degree in Computer Science (L-31) at the University of Trento, Italy.
-      He is also conducting a thesis internship at Fondazione Bruno Kessler (FBK) and collaborating with Prof. Sadamori Kojaku (Binghamton University) and Prof. Dakota Murray (University at Albany) on temporal embeddings of scholarly mobility.
+      He is also conducting a thesis internship at Fondazione Bruno Kessler (FBK) and collaborating with Prof. Yifang Ma (Southern University of Science and Technology) on institutional premiums in venue placement, and with Prof. Sadamori Kojaku (Binghamton University) and Prof. Dakota Murray (University at Albany) on temporal embeddings of scholarly mobility.
     </p>
 
     <p>
